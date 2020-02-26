@@ -1,0 +1,42 @@
+Rodar o arquivo que faz o crawler:
+
+    python3 cadastro_turmas.py
+
+
+Zerar as tabelas:
+  START TRANSACTION;
+  SET FOREIGN_KEY_CHECKS=0;
+  truncate sam_students;
+  TRUNCATE sam_request_extras;
+  TRUNCATE sam_requests;
+  TRUNCATE sam_disciplines;
+  TRUNCATE sam_classes;
+  SET FOREIGN_KEY_CHECKS=1;
+  COMMIT;
+
+  
+Importar o arquivo CSV gerado no banco de dados (tabela temp).
+
+Verificar quais disciplinas não estão cadastradas no sistema:
+    select * from sam_temp t
+       left join sam_disciplines d
+          on d.course_id = t.course_id and d.codigo = t.codigo
+    where d.id is null
+    order by t.course_id, t.turma
+
+
+Inserir as disciplinas que não estão cadastradas no cadastro de disciplina:
+    insert into sam_disciplines (codigo, descricao, fase, course_id, created, modified)
+    (select t.codigo, t.descricao, left(turma,2) as fase,t.course_id, now(), now()     from sam_temp t
+       left join sam_disciplines d
+          on d.course_id = t.course_id and d.codigo = t.codigo
+    where d.id is null
+    group by t.codigo, t.course_id
+    order by t.course_id, t.turma)
+
+
+
+
+Inserir os horários na tabela sam_classes:
+	insert into sam_classes (discipline_id, turma, horario, professor, setting_id)
+		(select (select id from sam_disciplines d WHERE d.codigo = t.codigo and d.course_id = t.course_id limit 1) as discipline_id, t.turma, t.horario, t.professor, 1  from sam_temp t)
