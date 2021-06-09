@@ -6,6 +6,7 @@ Rodar o arquivo que faz o crawler:
 Zerar as tabelas:
   START TRANSACTION;
   SET FOREIGN_KEY_CHECKS=0;
+  TRUNCATE sam_temp;
   truncate sam_students;
   TRUNCATE sam_request_extras;
   TRUNCATE sam_requests;

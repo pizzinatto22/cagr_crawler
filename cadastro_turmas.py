@@ -13,7 +13,7 @@ headers = {
 data = "AJAXREQUEST=_viewRoot&formBusca%3AselectSemestre={0}&formBusca%3AselectDepartamento=&formBusca%3AselectCampus=1&formBusca%3AselectCursosGraduacao={1}&formBusca%3AcodigoDisciplina=&formBusca%3Aj_id98_selection=&formBusca%3AfilterDisciplina=&formBusca%3Aj_id102=&formBusca%3Aj_id106_selection=&formBusca%3AfilterProfessor=&formBusca%3AselectDiaSemana=0&formBusca%3AselectHorarioSemana=&formBusca=formBusca&autoScroll=&javax.faces.ViewState=j_id1&formBusca%3Aj_id119=formBusca%3Aj_id119&isoladas=&formBusca%3AdataScroller1={2}"
 
 
-semestre = "20201"
+semestre = "20211"
 cursos = [
     {
         "nome": "Administração Diurno",

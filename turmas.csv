@@ -8,16 +8,14 @@ course_id;codigo;turma;descricao;horario;professor
 "1";"CAD7003";"03301";"Administração da Comunicação";"5.1010-2 / CSE-CSE001";"Marco Antonio de Moraes Ocke"
 "1";"CAD7004";"04301";"Cultura Empreendedora e Criatividade";"2.0820-2 / CSE-CSE009
 4.0820-2 / CSE-CSE009";"Gabriela Gonçalves Silveira Fiates"
-"1";"CAD7103";"03301";"Formação Profissional Inovação e Conhecimento";"2.0820-2 / CSE-CSE001";"Sérgio Luís Boeira"
 "1";"CAD7104";"04301";"Formação Profissional Governança";"2.1010-2 / CSE-CSE009";"Irineu Manoel de Souza"
-"1";"CAD7105";"01301";"Formação Profissional Sustentabilidade, Responsabilidade Social Coorporativa (RSC) e Ética Empres.";"2.1010-2 / CSE-CSE012
-4.1010-2 / CSE-CSE012";"Rebeca de Moraes Ribeiro de Barcellos
-Evelize Welzel"
+"1";"CAD7105";"01301";"Formação Profissional Sustentabilidade, Responsabilidade Social Corporativa (RSC) e Ética Empres.";"2.1010-2 / CSE-CSE012
+4.1010-2 / CSE-CSE012";"Rebeca de Moraes Ribeiro de Barcellos"
 "1";"CAD7114";"06301";"Administração da Produção I";"3.0820-2 / CSE-CSE103
 5.0820-2 / CSE-CSE103";"Rogerio Tadeu de Oliveira Lacerda"
-"1";"CAD7122";"07301";"Administração da Produção II";"4.0820-2 / CSE-CSE213
+"1";"CAD7122";"07301";"Administração da Produção II";"3.0820-2 / CSE-CSE213
 5.1010-2 / CSE-CSE213";"Ricardo Niehues Buss"
-"1";"CAD7131";"05301";"Administração Financeira I";"3.1010-2 / CSE-CSE102
+"1";"CAD7131";"05301";"Administração Financeira I";"3.0820-2 / CSE-CSE102
 5.0820-2 / CSE-CSE102";"André Luís da Silva Leite"
 "1";"CAD7132";"06301";"Administração Financeira II";"3.1010-2 / CSE-CSE103
 5.1010-2 / CSE-CSE103";"Marcus Vinicius Andrade de Lima"
@@ -25,99 +23,93 @@ Evelize Welzel"
 4.1010-2 / CSE-CSE102";"Helena Kuerten de Salles Uglione"
 "1";"CAD7139";"06301";"Administração de Recursos Humanos II";"2.0820-2 / CSE-CSE103
 4.0820-2 / CSE-CSE103";"Marcos Baptista Lopez Dalmau"
-"1";"CAD7213";"03301";"Organização, Sistemas e Métodos";"3.1010-2 / CSE-CSE001
-6.0820-2 / CSE-CSE001";"Gerson Rizzatti Junior"
+"1";"CAD7213";"03301";"Organização, Sistemas e Métodos";"3.1010-2 / AUX-ALOCAR
+4.0820-2 / AUX-ALOCAR";"Gerson Rizzatti Junior"
 "1";"CAD7218";"05301";"Administração de Marketing";"5.1010-2 / CSE-CSE102
 6.1010-2 / CSE-CSE102";"Allan Augusto Platt"
 "1";"CAD7219";"05301";"Administração de Materiais";"2.0820-2 / CSE-CSE102
 4.0820-2 / CSE-CSE102";"Andressa Sasaki Vasques Pacheco"
 "1";"CAD7220";"08301";"Logística e Cadeia de Suprimentos";"2.0820-2 / CSE-CSE214
-3.0820-2 / CSE-CSE214";"Maurício Carreira Cosentino"
+3.0820-2 / CSE-CSE214";"Helen Fischer Günther"
 "1";"CAD7222";"06301";"Administração da Tecnologia da Informação e Comunicação";"2.1010-2 / CSE-CSE103
 4.1010-2 / CSE-CSE103";"Mario de Souza Almeida"
 "1";"CAD7225";"07301";"Pesquisa Mercadológica";"2.1010-2 / CSE-CSE213
 5.0820-2 / CSE-CSE213";"Martin de La Martiniere Petroll"
-"1";"CAD7226";"09301";"processo Decisório";"2.1010-2 / CSE-CSE215
-4.1010-2 / CSE-CSE215";"Mauricio Roque Serva de Oliveira"
+"1";"CAD7226";"09301";"Processo Decisório";"2.1010-2 / CSE-CSE215
+4.1010-2 / CSE-CSE215";"Walter Vicente Gomes Filho"
 "1";"CAD7228";"08301";"Planejamento Financeiro e Orçamentário";"4.1010-2 / CSE-CSE214
 5.1010-2 / CSE-CSE214";"Ani Caroline Grigion Potrich"
 "1";"CAD7231";"08301";"Administração de Projetos";"4.0820-2 / CSE-CSE214
 6.1010-2 / CSE-CSE214";"Marcos Abílio Bosquetti"
 "1";"CAD7232";"08301";"Estratégia Mercadológica";"3.1010-2 / CSE-CSE214
 5.0820-2 / CSE-CSE214";"Rudimar Antunes da Rocha"
-"1";"CAD7233";"07301";"Desenvolvimento de Recursos Humanos";"3.0820-2 / CSE-CSE213";"Kellen da Silva Coelho"
+"1";"CAD7233";"07301";"Desenvolvimento de Recursos Humanos";"4.0820-2 / CSE-CSE213";"Luciano Vignochi"
 "1";"CAD7234";"09301";"Administração Estratégica";"3.1010-2 / CSE-CSE215
-4.0820-2 / CSE-CSE215";"Maria Aparecida Silva Alves"
+5.1010-2 / CSE-CSE215";"Gabriela Gonçalves Silveira Fiates"
 "1";"CAD7235";"09301";"Empreendimentos e Modelos de Negociação";"2.0820-2 / CSE-CSE215
-3.0820-2 / CSE-CSE215";"Luciano Vignochi"
+3.0820-2 / CSE-CSE215";"Joana Stelzer"
 "1";"CAD7303";"07301";"Laboratório de Gestão: Prática Profissional";"3.1010-2 / CSE-CSE213
-4.1010-2 / CSE-CSE213";"Claudelino Martins Dias Junior"
-"1";"CAD7304";"08301";"Laboratório de Gestão: Projeto de Trabalho de Curso";"2.1010-2 / CSE-CSE214";"Paulo Otolini Garrido"
-"1";"CAD7305";"09301";"Laboratório de Gestão: Trabalho de Curso";"";"Marcia Barros de Sales"
-"1";"CAD7715";"05301";"Laboratório de Gestão - Administração Pública e Desenvolvimento";"3.0820-2 / CSE-CSE102
-6.0820-2 / CSE-CSE102";"Walter Vicente Gomes Filho"
-"1";"CAD7803";"10301";"Empreendedorismo e Inovação Tecnológica";"3.1010-2 / CSE-CSE012";"Rogerio Tadeu de Oliveira Lacerda"
-"1";"CAD7805";"10301";"Administração e Análise Ergonômica do Trabalho";"5.1010-2 / CSE-CSE111";"Rogerio Tadeu de Oliveira Lacerda"
+4.1010-2 / AUX-ALOCAR";"Claudelino Martins Dias Junior"
+"1";"CAD7304";"08301";"Laboratório de Gestão: Projeto de Trabalho de Curso";"2.1010-2 / CSE-CSE214";"Luciano Vignochi"
+"1";"CAD7305";"09301";"Laboratório de Gestão: Trabalho de Curso";"";"Helena Kuerten de Salles Uglione"
+"1";"CAD7715";"05301";"Laboratório de Gestão - Administração Pública e Desenvolvimento";"3.1010-2 / CSE-CSE102
+6.0820-2 / CSE-CSE102";"Paulo Otolini Garrido"
+"1";"CAD7720";"03301";"Formação Profissional Inovação e Conhecimento";"2.0820-2 / AUX-ALOCAR";"Sérgio Luís Boeira"
 "1";"CAD7806";"10301";"Sistema de Gestão Ambiental";"5.0820-2 / CSE-CSE001";"Arcângelo dos Santos Safanelli"
-"1";"CAD7817";"10301";"Seminário em Administração I";"";"Ricardo Niehues Buss"
-"1";"CAD7818";"09301";"Seminário em Administração II";"4.0820-2 / AUX-ALOCAR";"Mario de Souza Almeida"
-"1";"CAD7818";"10301";"Seminário em Administração II";"2.0820-2 / AUX-ALOCAR";"Luiz Salgado Klaes"
-"1";"CAD7819";"10301";"Seminário em Administração III";"4.1620-2 / CSE-CSE012";"Allan Augusto Platt"
-"1";"CAD7819";"10301A";"Seminário em Administração III";"4.0820-2 / CSE-CSE211";"Rebeca de Moraes Ribeiro de Barcellos"
-"1";"CAD7824";"09301";"Módulo Internacional: Cross-Cultural Communication and Leadership";"4.1010-2 / CSE-CSE002";"Marcos Abílio Bosquetti"
-"1";"CAD7826";"06301";"Laboratório de Gestão: Organização da Sociedade Civil";"6.0820-4 / CSE-CSE103";"Helena Kuerten de Salles Uglione"
+"1";"CAD7817";"10301";"Seminário em Administração I";"2.0820-2 / CSE-CSE202";"Luiz Salgado Klaes"
+"1";"CAD7818";"09301";"Seminário em Administração II";"4.0820-2 / CSE-CSE211";"Mario de Souza Almeida"
+"1";"CAD7818";"10301";"Seminário em Administração II";"2.0820-2 / AUX-ALOCAR";""
+"1";"CAD7826";"06301";"Laboratório de Gestão: Organização da Sociedade Civil";"6.0820-4 / CSE-CSE103";"Renê Birochi"
 "1";"CCN7001";"02301";"Contabilidade Aplicada à Administração";"2.1010-2 / CSE-CSE011
 4.0820-2 / CSE-CSE011";"Roque Brinckmann"
 "1";"CCN7002";"04301";"Administração de Custos";"5.1010-2 / CSE-CSE009
 6.1010-2 / CSE-CSE009";"Erves Ducati"
 "1";"CIN7002";"02301";"Metodologia da Pesquisa Bibliográfica";"3.1010-2 / CSE-CSE011";"Ana Claudia Perpétuo de Oliveira da Silva"
 "1";"CNM5145";"01301";"Teoria Econômica";"3.0820-2 / CSE-CSE012
-5.0820-2 / CSE-CSE012";"Rosangela Aparecida da Silva"
+5.0820-2 / CSE-CSE012";"Luiz Carlos de Carvalho Junior"
 "1";"CNM7102";"07301";"Mercado de Capitais";"2.0820-2 / AUX-ALOCAR
-6.1010-2 / AUX-ALOCAR";"Alexandre Schwinden Garcia"
+6.1010-2 / AUX-ALOCAR";"Áureo Leandro Haag"
 "1";"DIR7001";"02301";"Direito Administrativo";"4.1010-2 / CSE-CSE011";"Rodolfo Joaquim Pinto da Luz"
-"1";"DIR7002";"03301";"Direito Empresarial";"4.0820-2 / CSE-CSE001
-6.1010-2 / CSE-CSE001";"Melissa Ely Melo"
-"1";"EGC5019";"10301";"Ambientes Virtuais de Aprendizagem";"4.1420-2 / CSE-CSE012
+"1";"DIR7002";"03301";"Direito Empresarial";"6.0820-4 / CSE-CSE001";"Melissa Ely Melo"
+"1";"EGC5019";"10301";"Ambientes Virtuais de Aprendizagem";"4.1420-2 / AUX-ALOCAR
 7.0820-2 / AUX-ALOCAR";"Marcio Vieira de Souza"
 "1";"EPS7042";"04301";"Introdução a Pesquisa Operacional";"3.0820-2 / CSE-CSE009
 5.0820-2 / CSE-CSE009";"Lynceo Falavigna Braghirolli"
-"1";"FIL7102";"01301";"Estudos Filosóficos";"6.0820-2 / CSE-CSE012";"Maria Alice da Silva"
+"1";"FIL7102";"01301";"Estudos Filosóficos";"6.0820-2 / CSE-CSE012";"Diego Kosbiau Trevisan"
 "1";"INE7001";"02301";"Estatística para Administradores I";"2.0820-2 / CSE-CSE011
 5.1010-2 / CSE-CSE011";"Marcelo Menezes Reis"
-"1";"INE7002";"03301";"Estatística para Administradores II";"2.1010-2 / CSE-CSE001
-4.1010-2 / CSE-CSE001";"Simone Daniela Sartorio de Medeiros"
-"1";"MTM3100";"01301";"Pré-Cálculo";"3.1010-2 / EF1-EFI404
-6.1010-2 / EF1-EFI404";"Maicon Marques Alves"
-"1";"MTM3561";"03301";"Matemática Financeira";"3.0820-2 / EF1-EFI203
-5.0820-2 / EF1-EFI203";"Vinícius Viana Luiz Albani"
+"1";"INE7002";"03301";"Estatística para Administradores II";"2.1010-2 / CSE-CSE110
+4.1010-2 / CSE-CSE107";"Professor A Contratar"
+"1";"MTM3100";"01301";"Pré-Cálculo";"3.1010-2 / AUX-ALOCAR
+6.1010-2 / AUX-ALOCAR";"Maicon Marques Alves"
+"1";"MTM3561";"03301";"Matemática Financeira";"3.0820-2 / AUX-ALOCAR
+5.0820-2 / AUX-ALOCAR";"Vinícius Viana Luiz Albani"
 "1";"PSI7002";"04301";"Psicologia Organizacional";"4.1010-2 / CSE-CSE009
-6.0820-2 / CSE-CSE009";"Davi Baasch"
-"1";"SPO7001";"01301";"Ciência Política";"5.1010-2 / CSE-CSE012";"Professor Não Informado"
-"1";"SPO7003";"04301";"Sociologia Aplicada";"3.1010-2 / CSE-CSE009";"José Pedro Simões Neto"
+6.0820-2 / CSE-CSE009";"Valéria de Bettio Mattos"
+"1";"SPO7001";"01301";"Ciência Política";"5.1010-2 / AUX-ALOCAR";"Anais Medeiros Passos"
+"1";"SPO7003";"04301";"Sociologia Aplicada";"3.1010-2 / CSE-CSE009";"Thaís de Souza Lapa"
 "1";"CAD5000";"09316";"Programa de Intercâmbio I";"";"Professor Não Informado"
 "1";"CAD7001";"01316";"Introdução a Administração";"2.2020-2 / CSE-CSE012
-5.2020-2 / CSE-CSE012";"Kellen da Silva Coelho"
+5.2020-2 / CSE-CSE012";"Flora Moritz da Silva
+Kellen da Silva Coelho"
 "1";"CAD7002";"02316";"Teorias da Administração";"3.1830-2 / CSE-CSE011
 5.1830-2 / CSE-CSE011";"Raphael Schlickmann"
 "1";"CAD7003";"03316";"Administração da Comunicação";"5.1830-2 / CSE-CSE001";"Marco Antonio de Moraes Ocke"
 "1";"CAD7004";"04316";"Cultura Empreendedora e Criatividade";"3.1830-2 / CSE-CSE109
 5.1830-2 / CSE-CSE009";"Pedro Antonio de Melo"
-"1";"CAD7103";"03316";"Formação Profissional Inovação e Conhecimento";"3.1830-2 / CSE-CSE001";"Sérgio Luís Boeira"
 "1";"CAD7104";"04316";"Formação Profissional Governança";"2.2020-2 / CSE-CSE009";"Irineu Manoel de Souza"
-"1";"CAD7105";"01316";"Formação Profissional Sustentabilidade, Responsabilidade Social Coorporativa (RSC) e Ética Empres.";"2.1830-2 / CSE-CSE012
-4.1830-2 / CSE-CSE012";"Evelize Welzel
-Flora Moritz da Silva"
+"1";"CAD7105";"01316";"Formação Profissional Sustentabilidade, Responsabilidade Social Corporativa (RSC) e Ética Empres.";"2.1830-2 / CSE-CSE012
+4.1830-2 / CSE-CSE012";"Rebeca de Moraes Ribeiro de Barcellos"
 "1";"CAD7114";"06316";"Administração da Produção I";"5.2020-2 / CSE-CSE103
 6.2020-2 / CSE-CSE103";"Walter Vicente Gomes Filho"
 "1";"CAD7122";"07316";"Administração da Produção II";"2.1830-2 / CSE-CSE213
 5.1830-2 / CSE-CSE213";"Ricardo Niehues Buss"
 "1";"CAD7131";"05316";"Administração Financeira I";"3.2020-2 / CSE-CSE102
-5.1830-2 / CSE-CSE102";"André Luís da Silva Leite"
+6.2020-2 / CSE-CSE102";"André Luís da Silva Leite"
 "1";"CAD7132";"06316";"Administração Financeira II";"3.1830-2 / CSE-CSE103
 5.1830-2 / CSE-CSE103";"Walter Vicente Gomes Filho"
 "1";"CAD7138";"05316";"Administração de Recursos Humanos I";"4.1830-2 / CSE-CSE102
-6.2020-2 / CSE-CSE102";"Maurício Carreira Cosentino"
+5.2020-2 / CSE-CSE102";"Helena Kuerten de Salles Uglione"
 "1";"CAD7139";"06316";"Administração de Recursos Humanos II";"2.1830-2 / CSE-CSE103
 4.1830-2 / CSE-CSE103";"Marcos Baptista Lopez Dalmau"
 "1";"CAD7213";"03316";"Organização, Sistemas e Métodos";"4.2020-2 / CSE-CSE001
@@ -131,41 +123,41 @@ Flora Moritz da Silva"
 "1";"CAD7222";"06316";"Administração da Tecnologia da Informação e Comunicação";"2.2020-2 / CSE-CSE103
 4.2020-2 / CSE-CSE103";"Mario de Souza Almeida"
 "1";"CAD7225";"07316";"Pesquisa Mercadológica";"2.2020-2 / CSE-CSE213
-5.2020-2 / CSE-CSE213";"Flora Moritz da Silva"
-"1";"CAD7226";"09316";"processo Decisório";"3.1830-2 / CSE-CSE215
+5.2020-2 / CSE-CSE213";"Martin de La Martiniere Petroll"
+"1";"CAD7226";"09316";"Processo Decisório";"3.1830-2 / CSE-CSE215
 4.2020-2 / CSE-CSE215";"Helen Fischer Günther"
 "1";"CAD7228";"08316";"Planejamento Financeiro e Orçamentário";"2.2020-2 / CSE-CSE214
 4.2020-2 / CSE-CSE214";"Ani Caroline Grigion Potrich"
 "1";"CAD7231";"08316";"Administração de Projetos";"2.1830-2 / CSE-CSE214
-3.2020-2 / CSE-CSE214";"Marcos Abílio Bosquetti"
+6.1830-2 / CSE-CSE214";"Marcos Abílio Bosquetti"
 "1";"CAD7232";"08316";"Estratégia Mercadológica";"3.1830-2 / CSE-CSE214
-5.2020-2 / CSE-CSE214";"Maurício Carreira Cosentino"
-"1";"CAD7233";"07316";"Desenvolvimento de Recursos Humanos";"3.2020-2 / CSE-CSE213";"Kellen da Silva Coelho"
+5.2020-2 / CSE-CSE214";"Rudimar Antunes da Rocha"
+"1";"CAD7233";"07316";"Desenvolvimento de Recursos Humanos";"3.2020-2 / CSE-CSE213";"Luciano Vignochi"
 "1";"CAD7234";"09316";"Administração Estratégica";"2.2020-2 / CSE-CSE215
-4.1830-2 / CSE-CSE215";"Maria Aparecida Silva Alves"
+4.1830-2 / CSE-CSE215";"Rosalia Aldraci Barbosa Lavarda"
 "1";"CAD7235";"09316";"Empreendimentos e Modelos de Negociação";"2.1830-2 / CSE-CSE215
 3.2020-2 / CSE-CSE215";"Joana Stelzer"
 "1";"CAD7303";"07316";"Laboratório de Gestão: Prática Profissional";"3.1830-2 / CSE-CSE213
 4.1830-2 / CSE-CSE213";"Claudelino Martins Dias Junior"
-"1";"CAD7304";"08316";"Laboratório de Gestão: Projeto de Trabalho de Curso";"6.1830-2 / CSE-CSE214";"Paulo Otolini Garrido"
-"1";"CAD7305";"09316";"Laboratório de Gestão: Trabalho de Curso";"";"Marcia Barros de Sales"
+"1";"CAD7304";"08316";"Laboratório de Gestão: Projeto de Trabalho de Curso";"3.2020-2 / CSE-CSE214";"Flora Moritz da Silva"
+"1";"CAD7305";"09316";"Laboratório de Gestão: Trabalho de Curso";"";"Helena Kuerten de Salles Uglione"
 "1";"CAD7715";"05316";"Laboratório de Gestão - Administração Pública e Desenvolvimento";"2.1830-2 / CSE-CSE102
-5.2020-2 / CSE-CSE102";"Bernardo Meyer"
-"1";"CAD7812";"10316";"Gestão de Comércio Exterior";"3.1830-2 / CSE-CSE009";"Joana Stelzer"
-"1";"CAD7817";"10316";"Seminário em Administração I";"5.2020-2 / CSE-CSE001";"Professor Não Informado"
+5.1830-2 / CSE-CSE102";"Bernardo Meyer"
+"1";"CAD7720";"03316";"Formação Profissional Inovação e Conhecimento";"3.1830-2 / CSE-CSE001";"Sérgio Luís Boeira"
+"1";"CAD7817";"10316";"Seminário em Administração I";"3.2020-2 / AUX-ALOCAR";""
 "1";"CAD7818";"10316";"Seminário em Administração II";"2.1830-2 / AUX-ALOCAR";"Mario de Souza Almeida"
-"1";"CAD7819";"10316";"Seminário em Administração III";"5.1830-2 / CSE-CSE209";"Rebeca de Moraes Ribeiro de Barcellos"
+"1";"CAD7818";"10316A";"Seminário em Administração II";"4.2020-2 / AUX-ALOCAR";""
 "1";"CAD7826";"06316";"Laboratório de Gestão: Organização da Sociedade Civil";"3.2020-2 / CSE-CSE103
 6.1830-2 / CSE-CSE103";"Sérgio Luís Boeira"
 "1";"CCN7001";"02316";"Contabilidade Aplicada à Administração";"3.2020-2 / CSE-CSE011
-5.2020-2 / CSE-CSE011";"Monique Cristiane de Oliveira"
+5.2020-2 / CSE-CSE011";"Mara Vogt"
 "1";"CCN7002";"04316";"Administração de Custos";"3.2020-2 / CSE-CSE009
 5.2020-2 / CSE-CSE009";"Luiza Santangelo Reis"
-"1";"CIN7002";"02316";"Metodologia da Pesquisa Bibliográfica";"2.1830-2 / CSE-CSE011";"Laila Figueiredo di Pietro"
+"1";"CIN7002";"02316";"Metodologia da Pesquisa Bibliográfica";"2.1830-2 / CSE-CSE011";"Professor A Contratar"
 "1";"CNM5145";"01316";"Teoria Econômica";"3.1830-2 / CSE-CSE012
-5.1830-2 / CSE-CSE012";"Luiz Carlos de Carvalho Junior"
+5.1830-2 / CSE-CSE012";"Mauricio Simiano Nunes"
 "1";"CNM7102";"07316";"Mercado de Capitais";"4.2020-2 / AUX-ALOCAR
-6.2020-2 / AUX-ALOCAR";"Alexandre Schwinden Garcia"
+6.2020-2 / AUX-ALOCAR";"Áureo Leandro Haag"
 "1";"DIR7001";"02316";"Direito Administrativo";"4.1830-2 / CSE-CSE011";"Rodolfo Joaquim Pinto da Luz"
 "1";"DIR7002";"03316";"Direito Empresarial";"3.2020-2 / CSE-CSE001
 6.1830-2 / CSE-CSE001";"Melissa Ely Melo"
@@ -173,291 +165,288 @@ Flora Moritz da Silva"
 7.1010-2 / AUX-ALOCAR";"Marcio Vieira de Souza"
 "1";"EPS7042";"04316";"Introdução a Pesquisa Operacional";"4.1830-2 / CSE-CSE009
 6.1830-2 / CSE-CSE009";"Lynceo Falavigna Braghirolli"
-"1";"FIL7102";"01316";"Estudos Filosóficos";"4.2020-2 / CSE-CSE012";"Maria Alice da Silva"
+"1";"FIL7102";"01316";"Estudos Filosóficos";"4.2020-2 / CSE-CSE012";"Diego Kosbiau Trevisan"
 "1";"INE7001";"02316";"Estatística para Administradores I";"2.2020-2 / CSE-CSE011
 4.2020-2 / CSE-CSE011";"Adriano Ferreti Borgatto"
 "1";"INE7002";"03316";"Estatística para Administradores II";"2.1830-2 / CSE-CSE001
 4.1830-2 / CSE-CSE001";"Adriano Ferreti Borgatto"
-"1";"MTM3100";"01316";"Pré-Cálculo";"3.2020-2 / EF1-EFI405
-6.2020-2 / EF1-EFI405";"Eduardo Tengan"
-"1";"MTM3561";"03316";"Matemática Financeira";"2.2020-2 / EF1-EFI201
-5.2020-2 / EF1-EFI201";"Giovanni Maria Arrigone"
+"1";"MTM3100";"01316";"Pré-Cálculo";"3.2020-2 / AUX-ALOCAR
+6.2020-2 / AUX-ALOCAR";"Eduardo Tengan"
+"1";"MTM3561";"03316";"Matemática Financeira";"2.2020-2 / AUX-ALOCAR
+5.2020-2 / AUX-ALOCAR";"Ado Raimundo Dalla Costa"
 "1";"PSI7002";"04316";"Psicologia Organizacional";"2.1830-2 / CSE-CSE009
 4.2020-2 / CSE-CSE009";"Narbal Silva"
-"1";"SPO7001";"01316";"Ciência Política";"6.1830-2 / CSE-CSE012";"Professor Não Informado"
-"1";"SPO7003";"04316";"Sociologia Aplicada";"6.2020-2 / CSE-CSE009";"Professor Não Informado"
+"1";"SPO7001";"01316";"Ciência Política";"6.1830-2 / CSE-CSE012";"Itamar Aguiar"
+"1";"SPO7003";"04316";"Sociologia Aplicada";"6.2020-2 / AUX-ALOCAR";"Luiz Gustavo da Cunha de Souza"
 "2";"CAD5103";"01302";"Administração I";"3.0820-2 / CSE-CSE201
-5.0820-2 / CSE-CSE201";"Maria Aparecida Silva Alves"
-"2";"CCN5119";"04302";"Contabilidade Superior";"3.0820-2 / CSE-CSE205
-5.0820-2 / CSE-CSE205";"Darci Schnorrenberger"
-"2";"CCN5120";"04302";"Contabilometria";"4.1010-2 / CSE-CSE205
-6.1010-2 / CSE-CSE205";"Alex Mussoi Ribeiro"
-"2";"CCN5137";"04302";"Contabilidade de Custos";"3.1010-2 / CSE-CSE205
-5.1010-2 / CSE-CSE205";"Altair Borgert"
-"2";"CCN5139";"05302";"Análise de Custos";"3.0820-2 / CSE-CSE206
-5.0820-2 / CSE-CSE206";"Altair Borgert"
+5.0820-2 / CSE-CSE201";"Paulo Otolini Garrido"
 "2";"CCN5140";"06302";"Contabilidade Gerencial";"2.1010-2 / CSE-CSE207
-5.0820-2 / CSE-CSE207";"Ilse Maria Beuren"
+5.0820-2 / CSE-CSE207";"Valdirene Gasparetto"
 "2";"CCN5141";"06302";"Técnicas de Pesquisa em Contabilidade";"2.0820-2 / CSE-CSE207
-4.0820-2 / CSE-CSE207";"Irineu Afonso Frey"
+4.0820-2 / CSE-CSE207";"Valmir Emil Hoffmann"
 "2";"CCN5147";"08302";"Perícia Contábil";"3.0820-2 / CSE-CSE210
-6.0820-2 / CSE-CSE210";"Denise Isabel Rizzi"
-"2";"CCN5171";"05302";"Contabilidade Pública I";"4.0820-2 / CSE-CSE206
-6.0820-2 / CSE-CSE206";"Neuton Alcedir de Lima Amaral"
+6.0820-2 / CSE-CSE210";"João Teles"
 "2";"CCN5172";"06302";"Contabilidade Pública II";"4.1010-2 / CSE-CSE207
-6.1010-2 / CSE-CSE207";"Neuton Alcedir de Lima Amaral"
+6.1010-2 / CSE-CSE207";"Fabricia Silva da Rosa"
 "2";"CCN5180";"06302";"Contabilidade e Finanças";"3.1010-2 / CSE-CSE207
-5.1010-2 / CSE-CSE207";"Valdirene Gasparetto
-Darci Schnorrenberger"
+5.1010-2 / CSE-CSE207";"Darci Schnorrenberger"
 "2";"CCN5181";"07302";"Simulação Gerencial I";"2.0820-2 / CSE-CSE116";"Pedro Jose Von Mecheln"
 "2";"CCN5182";"08302";"Simulação Gerencial II";"2.1010-2 / CSE-CSE116";"Pedro Jose Von Mecheln"
 "2";"CCN5183";"07302";"Contabilidade Atuarial";"3.1010-2 / CSE-CSE209";"Roque Brinckmann"
 "2";"CCN5184";"07302";"Contabilidade Avançada";"4.1010-2 / CSE-CSE209
 6.1010-2 / CSE-CSE209";"Suliani Rover"
 "2";"CCN5185";"07302";"Sistemas de Informação Contábil";"5.0820-4 / CSE-CSE116";"Sergio Murilo Petri"
-"2";"CCN5186";"07302";"Teoria da Contabilidade";"2.1010-2 / CSE-CSE209
-4.0820-2 / CSE-CSE209";"Joisse Antonio Lorandi"
-"2";"CCN5231";"04302";"Tópicos Especiais de Contabilidade I";"2.1010-2 / CSE-CSE210";"Maria Denize Henrique Casagrande"
-"2";"CCN5232";"04302";"Tópicos Especiais de Contabilidade II";"2.0820-2 / CSE-CSE205";"Denize Demarche Minatti Ferreira"
-"2";"CCN5246";"09302";"Tópicos Especiais de Contabilidade Societária";"6.1010-2 / CSE-CSE210";"José Alonso Borba"
+"2";"CCN5231";"09302";"Tópicos Especiais de Contabilidade I";"6.0820-2 / AUX-ALOCAR";"Maria Denize Henrique Casagrande"
 "2";"CCN5301";"08302";"Atividades Complementares";"";"Orion Augusto Platt Neto"
-"2";"CCN5303";"05302";"Análise das Demonstrações Contábeis";"3.1010-2 / CSE-CSE206
-5.1010-2 / CSE-CSE206";"Suliani Rover"
 "2";"CCN5318";"07302";"Auditoria Contábil I";"3.0820-2 / CSE-CSE209
-6.0820-2 / CSE-CSE209";"Professor Não Informado"
+6.0820-2 / CSE-CSE209";"Luiza Santangelo Reis"
 "2";"CCN5320";"08302";"Auditoria Contábil II";"2.0820-2 / CSE-CSE210
 5.1010-2 / CSE-CSE210";"Ernesto Fernando Rodrigues Vicente"
-"2";"CCN5321";"05302";"Contabilidade Tributária I";"2.1010-2 / CSE-CSE206
-4.1010-2 / CSE-CSE206";"Viviane Theiss"
 "2";"CCN5322";"06302";"Contabilidade Tributária II";"3.0820-2 / CSE-CSE207
-6.0820-2 / CSE-CSE207";"Viviane Theiss"
+6.0820-2 / CSE-CSE207";"Joice Denise Schäfer"
 "2";"CCN5323";"08302";"Planejamento Tributário";"3.1010-2 / CSE-CSE210
-4.1010-2 / CSE-CSE210";"Sergio Murilo Petri"
+4.1010-2 / CSE-CSE210";"Luiz Felipe Ferreira"
 "2";"CCN5325";"08302";"Controladoria";"4.0820-2 / CSE-CSE210
-5.0820-2 / CSE-CSE210";"Valmir Emil Hoffmann"
+5.0820-2 / CSE-CSE210";"Rogerio Joao Lunkes"
 "2";"CCN5501";"07302";"Programa de Intercâmbio I";"";"Erves Ducati"
 "2";"CCN5502";"08302";"Programa de Intercâmbio II";"";"Erves Ducati"
 "2";"CCN6000";"01302";"Contabilidade Introdutória I";"2.1010-2 / CSE-CSE201
-4.1010-2 / CSE-CSE201";"Fernando Richartz
-Luiza Santangelo Reis"
+4.1010-2 / CSE-CSE201";"Mara Vogt"
 "2";"CCN6001";"02302";"Contabilidade Introdutória II";"2.1010-2 / CSE-CSE202
 4.1010-2 / CSE-CSE202";"Alcindo Cipriano Argolo Mendes"
 "2";"CCN6002";"03302";"Contabilidade Intermediária I";"2.1010-2 / CSE-CSE203
 4.1010-2 / CSE-CSE203";"Sandra Rolim Ensslin"
+"2";"CCN6003";"04302";"Contabilidade Intermediária II";"2.1010-2 / AUX-ALOCAR
+4.1010-2 / AUX-ALOCAR";"Darci Schnorrenberger"
 "2";"CCN6004";"03302";"Matemática Financeira aplicada a Contabilidade";"3.1010-2 / CSE-CSE203
 5.1010-2 / CSE-CSE203";"Cleyton de Oliveira Ritta"
 "2";"CCN6005";"03302";"Contabilometria";"3.0820-2 / CSE-CSE116
-6.0820-2 / CSE-CSE116";"Roque Brinckmann"
+6.0820-2 / CSE-CSE116";"Leonardo Flach"
+"2";"CCN6006";"04302";"Contabilidade de Custos";"3.1010-2 / AUX-ALOCAR
+5.1010-2 / AUX-ALOCAR";"Altair Borgert"
+"2";"CCN6007";"04302";"Teoria da Contabilidade";"2.0820-2 / AUX-ALOCAR
+4.0820-2 / AUX-ALOCAR";"Joisse Antonio Lorandi"
+"2";"CCN6008";"04302";"Tributação das Empresas Comerciais e Industriais";"5.0820-2 / AUX-ALOCAR";"Viviane Theiss"
+"2";"CCN6009";"04302";"Contabilidade e Responsabilidade Socioambiental";"3.0820-2 / AUX-ALOCAR";"Denize Demarche Minatti Ferreira"
+"2";"CCN6010";"05302";"Contabilidade e Finanças";"2.0820-2 / AUX-ALOCAR
+4.0820-2 / AUX-ALOCAR";"Edilson Paulo"
+"2";"CCN6011";"05302";"Análise de Custos";"3.0820-2 / AUX-ALOCAR
+5.0820-2 / AUX-ALOCAR";"Altair Borgert"
+"2";"CCN6012";"05302";"Contabilidade Tributária";"3.1010-2 / AUX-ALOCAR
+6.1010-2 / AUX-ALOCAR";"Joice Denise Schäfer"
+"2";"CCN6013";"05302";"Análise das Demonstrações Contábeis";"2.1010-2 / AUX-ALOCAR
+4.1010-2 / AUX-ALOCAR";"Orion Augusto Platt Neto"
+"2";"CCN6014";"05302";"Tributação na Prestação de Serviços";"5.1010-2 / AUX-ALOCAR";"Viviane Theiss"
 "2";"CCN9501";"09302";"Governança nas Organizações";"7.0820-2 / CSE-CSE211";"Ernesto Fernando Rodrigues Vicente"
 "2";"CNM5145";"02302";"Teoria Econômica";"3.1010-2 / CSE-CSE202
-5.0820-2 / CSE-CSE202";"Professor Não Informado"
-"2";"CNM5305";"03302";"Mercado de Capitais";"2.0820-2 / EF1-EFI305
-6.1010-2 / EF1-EFI405";"Professor Não Informado"
-"2";"CNM5305";"05302";"Mercado de Capitais";"2.0820-2 / AUX-ALOCAR
-6.1010-2 / AUX-ALOCAR";"Alexandre Schwinden Garcia"
+5.0820-2 / CSE-CSE202";"Walter Vicente Gomes Filho"
+"2";"CNM5305";"03302";"Mercado de Capitais";"2.0820-2 / AUX-ALOCAR
+6.1010-2 / AUX-ALOCAR";"Áureo Leandro Haag"
 "2";"DIR5972";"03302";"Legislação Social e Previdenciária";"4.0820-2 / CSE-CSE203
 5.0820-2 / CSE-CSE203";"Juliana Wulfing"
 "2";"DIR5991";"02302";"Legislação Tributária";"4.0820-2 / CSE-CSE202
-6.1010-2 / CSE-CSE202";"Valcir Gassen"
-"2";"DIR5991";"04302";"Legislação Tributária";"4.0820-2 / CSE-CSE205
-6.0820-2 / CSE-CSE205";"Humberto Pereira Vecchio"
+6.1010-2 / CSE-CSE202";"Humberto Pereira Vecchio"
 "2";"DIR6010";"01302";"Direito Empresarial";"3.1010-2 / CSE-CSE201
-6.0820-2 / CSE-CSE201";"Melissa Ely Melo"
+6.0820-2 / CSE-CSE201";"Daniel Deggau Bastos"
+"2";"EGC5028";"09302";"Habitats de Inovação";"6.0820-4 / AUX-ALOCAR";"Clarissa Stefani Teixeira"
 "2";"EGC5029";"09302";"Gestão da Sustentabilidade";"4.1010-2 / CSE-CSE110";"Hans Michael Van Bellen"
-"2";"EGC5263";"09302";"Finanças Pessoais";"4.0820-4 / EF1-EFI404";"Jurandir Sell Macedo Junior
+"2";"EGC5263";"09302";"Finanças Pessoais";"4.0820-4 / AUX-ALOCAR";"Jurandir Sell Macedo Junior
 Alexandre Augusto Biz"
 "2";"FIL5109";"01302";"Ética e Filosofia Política";"4.0820-2 / CSE-CSE201
-6.1010-2 / CSE-CSE201";"Maria Alice da Silva"
+6.1010-2 / CSE-CSE201";"Julia Sichieri Moura"
 "2";"INE6010";"02302";"Métodos Estatísticos";"3.0820-2 / CSE-CSE110
-6.0820-2 / CSE-CSE110";"Meire Mezzomo"
-"2";"MTM3100";"01302";"Pré-Cálculo";"2.0820-2 / EF1-EFI403
-5.1010-2 / EF1-EFI403";"Professor Não Informado"
-"2";"MTM3561";"02302";"Matemática Financeira";"2.0820-2 / EF1-EFI401
-5.1010-2 / EF1-EFI203";"Vinícius Viana Luiz Albani"
+6.0820-2 / CSE-CSE110";"Marcelo Menezes Reis"
+"2";"LLV7801";"04302";"Produção Textual Acadêmica";"6.0820-4 / AUX-ALOCAR";"Gabriela Rempel"
+"2";"MTM3100";"01302";"Pré-Cálculo";"2.0820-2 / AUX-ALOCAR
+5.1010-2 / AUX-ALOCAR";"Fernando de Lacerda Mortari"
+"2";"MTM3561";"02302";"Matemática Financeira";"2.0820-2 / AUX-ALOCAR
+5.1010-2 / AUX-ALOCAR";"Vinícius Viana Luiz Albani"
 "2";"CAD5103";"01317";"Administração I";"3.1830-2 / CSE-CSE201
 5.2020-2 / CSE-CSE201";"Paulo Otolini Garrido"
-"2";"CCN5119";"04317";"Contabilidade Superior";"2.1830-2 / CSE-CSE203
-4.2020-2 / CSE-CSE203";"Alessandra Rodrigues Machado de Araujo"
-"2";"CCN5120";"04317";"Contabilometria";"3.2020-2 / EF1-EFI204
-5.2020-2 / EF1-EFI204";"Leonardo Flach"
-"2";"CCN5124";"03317";"Laboratório de Prática Contábil";"6.1830-4 / CSE-CSE116";"Monique Cristiane de Oliveira"
-"2";"CCN5137";"04317";"Contabilidade de Custos";"3.1830-2 / CSE-CSE205
-5.1830-2 / CSE-CSE205";"Pedro Jose Von Mecheln"
-"2";"CCN5139";"05317";"Análise de Custos";"2.1830-2 / CSE-CSE206
-5.2020-2 / CSE-CSE206";"Erves Ducati"
+"2";"CCN5120";"04317";"Contabilometria";"3.2020-2 / AUX-ALOCAR
+5.2020-2 / AUX-ALOCAR";"Alex Mussoi Ribeiro"
 "2";"CCN5140";"06317";"Contabilidade Gerencial";"3.1830-2 / CSE-CSE207
 5.1830-2 / CSE-CSE207";"Valdirene Gasparetto"
-"2";"CCN5141";"06317";"Técnicas de Pesquisa em Contabilidade";"2.1830-2 / CSE-CSE116
+"2";"CCN5141";"06317";"Técnicas de Pesquisa em Contabilidade";"2.1830-2 / CSE-CSE210
 4.1830-2 / CSE-CSE116";"Valmir Emil Hoffmann"
-"2";"CCN5147";"08317";"Perícia Contábil";"2.1830-4 / CSE-CSE210";"Luiz Alberton"
-"2";"CCN5171";"05317";"Contabilidade Pública I";"3.2020-2 / CSE-CSE206
-6.1830-2 / CSE-CSE206";"Orion Augusto Platt Neto"
+"2";"CCN5141";"06317A";"Técnicas de Pesquisa em Contabilidade";"2.1830-2 / AUX-ALOCAR
+4.1830-2 / AUX-ALOCAR";"Irineu Afonso Frey"
+"2";"CCN5147";"08317";"Perícia Contábil";"2.1830-4 / CSE-CSE116";"Luiz Alberton"
 "2";"CCN5172";"06317";"Contabilidade Pública II";"4.2020-2 / CSE-CSE206
 6.2020-2 / CSE-CSE206";"Orion Augusto Platt Neto"
 "2";"CCN5180";"06317";"Contabilidade e Finanças";"2.2020-2 / CSE-CSE207
-3.2020-2 / CSE-CSE207";"Alessandra Rodrigues Machado de Araujo"
+3.2020-2 / CSE-CSE207";"João Teles"
 "2";"CCN5181";"07317";"Simulação Gerencial I";"3.2020-2 / CSE-CSE116";"Pedro Jose Von Mecheln"
-"2";"CCN5182";"08317";"Simulação Gerencial II";"5.2020-2 / CSE-CSE209";"Pedro Jose Von Mecheln"
+"2";"CCN5182";"08317";"Simulação Gerencial II";"5.2020-2 / CSE-CSE205";"Pedro Jose Von Mecheln"
 "2";"CCN5183";"07317";"Contabilidade Atuarial";"3.1830-2 / CSE-CSE209";"Roque Brinckmann"
 "2";"CCN5184";"07317";"Contabilidade Avançada";"2.1830-2 / CSE-CSE209
 4.1830-2 / CSE-CSE209";"José Alonso Borba"
-"2";"CCN5185";"07317";"Sistemas de Informação Contábil";"5.1830-4 / CSE-CSE116";"Alessandra Rodrigues Machado de Araujo"
+"2";"CCN5185";"07317";"Sistemas de Informação Contábil";"5.1830-4 / CSE-CSE116";"Sergio Murilo Petri"
 "2";"CCN5186";"07317";"Teoria da Contabilidade";"2.2020-2 / CSE-CSE209
-4.2020-2 / CSE-CSE209";"Maíra Melo de Souza"
-"2";"CCN5232";"09317";"Tópicos Especiais de Contabilidade II";"2.2020-2 / CSE-CSE201";"Denize Demarche Minatti Ferreira"
+4.2020-2 / CSE-CSE209";"Joisse Antonio Lorandi"
 "2";"CCN5241";"08317";"Tópicos Especiais de Contabilidade Gerencial I";"5.1830-2 / CSE-CSE210";"Darci Schnorrenberger"
+"2";"CCN5246";"09317";"Tópicos Especiais de Contabilidade Societária";"2.2020-2 / AUX-ALOCAR";"José Alonso Borba"
 "2";"CCN5301";"08317";"Atividades Complementares";"";"Orion Augusto Platt Neto"
-"2";"CCN5303";"05317";"Análise das Demonstrações Contábeis";"3.1830-2 / CSE-CSE206
-4.1830-2 / CSE-CSE206";"Orion Augusto Platt Neto"
 "2";"CCN5318";"07317";"Auditoria Contábil I";"6.1830-4 / CSE-CSE209";"Luiza Santangelo Reis"
 "2";"CCN5320";"08317";"Auditoria Contábil II";"4.1830-4 / CSE-CSE210";"Cleyton de Oliveira Ritta"
-"2";"CCN5321";"05317";"Contabilidade Tributária I";"2.2020-2 / CSE-CSE206
-5.1830-2 / CSE-CSE206";"Denise Isabel Rizzi"
 "2";"CCN5322";"06317";"Contabilidade Tributária II";"5.2020-2 / CSE-CSE207
-6.1830-2 / CSE-CSE207";"Viviane Theiss"
+6.1830-2 / CSE-CSE207";"Joice Denise Schäfer"
 "2";"CCN5323";"08317";"Planejamento Tributário";"3.2020-2 / CSE-CSE210
-6.2020-2 / CSE-CSE210";"Denise Isabel Rizzi"
+6.2020-2 / CSE-CSE210";"Luiz Felipe Ferreira"
 "2";"CCN5325";"08317";"Controladoria";"3.1830-2 / CSE-CSE210
-6.1830-2 / CSE-CSE210";"Professor Não Informado"
-"2";"CCN5404";"09317";"Trabalho de Conclusão do Curso - TCC";"";"Fernando Richartz"
-"2";"CCN5405";"09317";"Trabalho de Conclusão de Curso - TCC/Artigo";"";"Fernando Richartz"
+6.1830-2 / CSE-CSE210";"Rogerio Joao Lunkes"
+"2";"CCN5404";"09317";"Trabalho de Conclusão do Curso - TCC";"";"Viviane Theiss"
+"2";"CCN5405";"09317";"Trabalho de Conclusão de Curso - TCC/Artigo";"";"Viviane Theiss"
 "2";"CCN6000";"01317";"Contabilidade Introdutória I";"2.1830-2 / CSE-CSE201
 4.1830-2 / CSE-CSE201";"Denize Demarche Minatti Ferreira"
-"2";"CCN6000";"01317A";"Contabilidade Introdutória I";"2.1830-2 / CSE-CSE205
-4.1830-2 / CSE-CSE203";"Denise Isabel Rizzi"
+"2";"CCN6000";"01317A";"Contabilidade Introdutória I";"3.1830-2 / CSE-CSE205
+5.1830-2 / AUX-ALOCAR";"Mara Vogt"
 "2";"CCN6001";"02317";"Contabilidade Introdutória II";"2.1830-2 / CSE-CSE202
 4.1830-2 / CSE-CSE202";"Maíra Melo de Souza"
 "2";"CCN6001";"02317A";"Contabilidade Introdutória II";"2.1830-2 / CSE-CSE207
 4.1830-2 / CSE-CSE207";"Alcindo Cipriano Argolo Mendes"
 "2";"CCN6002";"03317";"Contabilidade Intermediária I";"2.1830-2 / CSE-CSE110
-4.1830-2 / CSE-CSE110";"Monique Cristiane de Oliveira"
+4.1830-2 / CSE-CSE110";"Mara Vogt"
+"2";"CCN6003";"04317";"Contabilidade Intermediária II";"2.1830-2 / AUX-ALOCAR
+4.1830-2 / AUX-ALOCAR";"Darci Schnorrenberger"
 "2";"CCN6004";"03317";"Matemática Financeira aplicada a Contabilidade";"2.2020-2 / CSE-CSE203
 5.1830-2 / CSE-CSE203";"Cleyton de Oliveira Ritta"
 "2";"CCN6005";"03317";"Contabilometria";"3.2020-2 / AUX-ALOCAR
 5.2020-2 / AUX-ALOCAR";"Leonardo Flach"
+"2";"CCN6006";"04317";"Contabilidade de Custos";"3.1830-2 / AUX-ALOCAR
+5.1830-2 / AUX-ALOCAR";"Pedro Jose Von Mecheln"
+"2";"CCN6007";"04317";"Teoria da Contabilidade";"2.2020-2 / AUX-ALOCAR
+4.2020-2 / AUX-ALOCAR";"Maíra Melo de Souza"
+"2";"CCN6008";"04317";"Tributação das Empresas Comerciais e Industriais";"3.2020-2 / AUX-ALOCAR";"Viviane Theiss"
+"2";"CCN6009";"04317";"Contabilidade e Responsabilidade Socioambiental";"5.2020-2 / AUX-ALOCAR";"Denize Demarche Minatti Ferreira"
+"2";"CCN6010";"05317";"Contabilidade e Finanças";"2.2020-2 / AUX-ALOCAR
+4.2020-2 / AUX-ALOCAR";"Edilson Paulo"
+"2";"CCN6011";"05317";"Análise de Custos";"3.1830-2 / AUX-ALOCAR
+5.1830-2 / AUX-ALOCAR";"Carlos Eduardo Facin Lavarda"
+"2";"CCN6012";"05317";"Contabilidade Tributária";"3.2020-2 / AUX-ALOCAR
+6.2020-2 / AUX-ALOCAR";"Joice Denise Schäfer"
+"2";"CCN6013";"05317";"Análise das Demonstrações Contábeis";"2.1830-2 / AUX-ALOCAR
+4.1830-2 / AUX-ALOCAR";"Orion Augusto Platt Neto"
+"2";"CCN6014";"05317";"Tributação na Prestação de Serviços";"5.2020-2 / AUX-ALOCAR";"Viviane Theiss"
 "2";"CCN9501";"09317";"Governança nas Organizações";"7.1010-2 / CSE-CSE211";"Ernesto Fernando Rodrigues Vicente"
-"2";"CNM5145";"02317";"Teoria Econômica";"3.1830-2 / CSE-CSE202
-6.1830-2 / CSE-CSE202";"Rosangela Aparecida da Silva"
-"2";"CNM5305";"03317";"Mercado de Capitais";"4.2020-2 / EF1-EFI204
-6.2020-2 / EF1-EFI204";"Professor Não Informado"
-"2";"CNM5305";"05317";"Mercado de Capitais";"4.2020-2 / AUX-ALOCAR
-6.2020-2 / AUX-ALOCAR";"Alexandre Schwinden Garcia"
+"2";"CNM5145";"02317";"Teoria Econômica";"3.1830-2 / CSE-CSE110
+6.1830-2 / CSE-CSE110";"Mauricio Simiano Nunes"
+"2";"CNM5305";"03317";"Mercado de Capitais";"4.2020-2 / AUX-ALOCAR
+6.2020-2 / AUX-ALOCAR";"Áureo Leandro Haag"
 "2";"DIR5972";"03317";"Legislação Social e Previdenciária";"3.1830-2 / CSE-CSE203
 6.1830-2 / CSE-CSE203";"Eduardo Antonio Temponi Lebre"
 "2";"DIR5991";"02317";"Legislação Tributária";"4.2020-2 / CSE-CSE202
-6.2020-2 / CSE-CSE202";"Valcir Gassen"
-"2";"DIR5991";"04317";"Legislação Tributária";"2.2020-2 / CSE-CSE205
-4.1830-2 / CSE-CSE205";"Gilson Wessler Michels"
+6.2020-2 / CSE-CSE202";"Carolina Sena Vieira"
 "2";"DIR6010";"01317";"Direito Empresarial";"3.2020-2 / CSE-CSE201
-6.2020-2 / CSE-CSE201";"Andre Lipp Pinto Basto Lupi"
+6.2020-2 / CSE-CSE201";"Daniel Deggau Bastos"
 "2";"EGC5028";"09317";"Habitats de Inovação";"5.1830-4 / CSE-CSE202";"Marcelo Macedo"
-"2";"EGC5029";"09317";"Gestão da Sustentabilidade";"4.1830-2 / EF1-EFI201";"Hans Michael Van Bellen"
+"2";"EGC5029";"09317";"Gestão da Sustentabilidade";"4.1830-2 / AUX-ALOCAR";"Hans Michael Van Bellen"
 "2";"EGC5263";"09317";"Finanças Pessoais";"3.1830-4 / AUX-ALOCAR";"Alexandre Augusto Biz
 Jurandir Sell Macedo Junior"
 "2";"FIL5109";"01317";"Ética e Filosofia Política";"4.2020-2 / CSE-CSE201
-6.1830-2 / CSE-CSE201";"Vilmar Debona"
+6.1830-2 / CSE-CSE201";"Julia Sichieri Moura
+Vilmar Debona"
 "2";"INE6010";"02317";"Métodos Estatísticos";"3.2020-2 / CSE-CSE110
-5.2020-2 / CSE-CSE110";"Manoella Reis Cardenutto"
-"2";"MTM3100";"01317";"Pré-Cálculo";"2.2020-2 / EF1-EFI404
-5.1830-2 / EF1-EFI404";"Helder Geovane Gomes de Lima"
+5.2020-2 / CSE-CSE110";"Professor A Contratar"
+"2";"LLV7801";"04317";"Produção Textual Acadêmica";"6.1830-4 / AUX-ALOCAR";"Adair Bonini"
+"2";"LLV7801";"04317A";"Produção Textual Acadêmica";"6.1830-4 / AUX-ALOCAR";"Gabriela Rempel"
+"2";"MTM3100";"01317";"Pré-Cálculo";"2.2020-2 / AUX-ALOCAR
+5.1830-2 / AUX-ALOCAR";"Daniel Norberto Kozakevich"
 "2";"MTM3561";"02317";"Matemática Financeira";"2.2020-2 / CSE-CSE110
-5.1830-2 / CSE-CSE110";"Juan Carlos Torres Espinoza"
-"3";"CAD5103";"08304";"Administração I";"3.1010-2 / CSE-CSE211
+5.1830-2 / CSE-CSE110";"Christian Wagner"
+"3";"CAD5103";"08304";"Administração I";"2.1010-2 / CSE-CSE211
 4.1010-2 / CSE-CSE211";"Marcia Barros de Sales"
 "3";"CCN5190";"07304";"Contabilidade e Analise de Balanços I";"2.0820-2 / CSE-CSE211
-3.0820-2 / CSE-CSE211";"Monique Cristiane de Oliveira"
+3.0820-2 / CSE-CSE211";"Roque Brinckmann"
+"3";"CCN6118";"05304";"Contabilidade e Análise Financeira";"4.0820-2 / AUX-ALOCAR
+6.0820-2 / AUX-ALOCAR";"Suliani Rover"
 "3";"CNM6000";"01304";"Introdução à Macroeconomia";"4.0820-2 / CSE-CSE107
 6.0820-2 / CSE-CSE107";"Eva Yamila Amanda da Silva Catela"
 "3";"CNM6001";"01304";"Informática para Economistas";"3.1010-2 / AUX-ALOCAR";"Arlei Luiz Fachinello"
 "3";"CNM6002";"01304";"Introdução ao Pensamento Econômico";"5.1010-2 / CSE-CSE107
-6.1010-2 / CSE-CSE107";"Carmen Rosario Ortiz Gutierrez Gelinski"
+6.1010-2 / CSE-CSE107";"Armando de Melo Lisboa"
 "3";"CNM6003";"02304";"Introdução à Microeconomia";"3.0820-2 / CSE-CSE109
-5.0820-2 / CSE-CSE109";"Eva Yamila Amanda da Silva Catela"
+5.0820-2 / CSE-CSE109";"Ronivaldo Steingraber"
 "3";"CNM6004";"02304";"Contabilidade Social";"4.0820-2 / CSE-CSE109
-6.0820-2 / CSE-CSE109";"Liana Bohn"
+6.0820-2 / CSE-CSE109";"Carmen Rosario Ortiz Gutierrez Gelinski"
 "3";"CNM6005";"03304";"Economia Política I";"3.0820-2 / CSE-CSE113
-6.0820-2 / CSE-CSE113";"Márcio Moraes Rutkoski"
+6.0820-2 / CSE-CSE113";"Nildo Domingos Ouriques"
+"3";"CNM6006";"04304";"Economia Política II";"2.1010-2 / AUX-ALOCAR
+6.0820-2 / AUX-ALOCAR";"Valdir Alvim da Silva"
 "3";"CNM6007";"03304";"Economia Matemática";"2.0820-2 / CSE-CSE113
-5.0820-2 / CSE-CSE113";"Pedro Luiz Paolino Chaim"
+5.0820-2 / CSE-CSE113";"Jaylson Jair da Silveira"
 "3";"CNM6008";"03304";"Macroeconomia I";"2.1010-2 / CSE-CSE113
 4.1010-2 / CSE-CSE113";"Guilherme de Oliveira"
+"3";"CNM6009";"04304";"Macroeconomia II";"2.0820-2 / AUX-ALOCAR
+4.1010-2 / AUX-ALOCAR";"João Frois Caldeira"
+"3";"CNM6010";"05304";"Macroeconomia III";"2.1010-2 / AUX-ALOCAR
+5.1010-2 / AUX-ALOCAR";"Wagner Leal Arienti"
 "3";"CNM6011";"03304";"Estatística Econômica";"3.1010-2 / CSE-CSE113
-5.1010-2 / CSE-CSE113";"Gueibi Peres Souza"
-"3";"CNM7104";"04304";"Metodologia Econômica";"4.0820-2 / CSE-CSE115
-6.1010-2 / CSE-CSE115";"Brena Paula Magno Fernandez"
+5.1010-2 / CSE-CSE113";"Milton Biage"
+"3";"CNM6012";"04304";"Microeconomia I";"3.0820-2 / AUX-ALOCAR
+5.0820-2 / AUX-ALOCAR";"Arlei Luiz Fachinello"
+"3";"CNM6013";"05304";"Microeconomia II";"2.0820-2 / AUX-ALOCAR
+3.1010-2 / AUX-ALOCAR";"Liana Bohn"
+"3";"CNM6015";"04304";"Econometria";"3.1010-2 / AUX-ALOCAR
+5.1010-2 / AUX-ALOCAR";"Gueibi Peres Souza"
+"3";"CNM6016";"05304";"Formação Econômica do Brasil";"4.1010-2 / AUX-ALOCAR
+6.1010-2 / AUX-ALOCAR";"Marcos Alves Valente"
+"3";"CNM6017";"05304";"Desenvolvimento Socioeconômico";"3.0820-2 / AUX-ALOCAR
+5.0820-2 / AUX-ALOCAR";"Solange Regina Marin"
 "3";"CNM7105";"08304";"Metodologia Econômica II";"2.0820-2 / CSE-CSE111
 4.0820-2 / CSE-CSE111";"Marialice de Moraes"
 "3";"CNM7106";"09304";"Evolução do Pensamento Econômico";"3.1010-2 / CSE-CSE110
-5.1010-2 / CSE-CSE110";"Wagner Leal Arienti"
-"3";"CNM7107";"08304";"Monografia";"";"Helberte Joao Franca Almeida"
-"3";"CNM7119";"05304";"Formação Econômica do Brasil I";"4.1010-2 / CSE-CSE114
-6.1010-2 / CSE-CSE114";"Fabio Padua dos Santos
-Marcos Alves Valente"
+5.1010-2 / CSE-CSE110";"Lauro Francisco Mattei"
+"3";"CNM7107";"08304";"Monografia";"";"Liana Bohn"
 "3";"CNM7120";"06304";"Formação Econômica do Brasil II";"2.1010-2 / CSE-CSE101
-4.1010-2 / CSE-CSE101";"Professor Não Informado"
+4.1010-2 / CSE-CSE101";"Fabio Padua dos Santos"
 "3";"CNM7136";"06304";"Economia Internacional II";"3.1010-2 / CSE-CSE101
-5.1010-2 / CSE-CSE101";"Dominik Hartmann"
-"3";"CNM7154";"04304";"Macroeconomia III";"2.0820-2 / CSE-CSE115
-5.0820-2 / CSE-CSE115";"Daniel de Santana Vasconcelos"
-"3";"CNM7162";"04304";"Microeconomia III";"2.1010-2 / CSE-CSE115
-4.1010-2 / CSE-CSE115";"Luiz Carlos de Carvalho Junior"
+6.1010-2 / CSE-CSE101";"Wagner Leal Arienti"
 "3";"CNM7208";"06304";"Economia do Setor Público";"2.0820-2 / CSE-CSE101
-4.0820-2 / CSE-CSE101";"Guilherme de Oliveira"
-"3";"CNM7223";"05304";"Economia Internacional I";"2.1010-2 / CSE-CSE114
-6.0820-2 / CSE-CSE114";"Gilson Geraldino da Silva Junior"
-"3";"CNM7241";"04304";"Econometria";"3.1010-2 / CSE-CSE115
-5.1010-2 / CSE-CSE115";"Milton Biage"
-"3";"CNM7266";"05304";"Economia Monetária";"2.0820-2 / CSE-CSE114
-4.0820-2 / CSE-CSE114";"João Frois Caldeira"
-"3";"CNM7307";"05304";"Mercado de Capitais I";"3.1010-2 / CSE-CSE114
-5.1010-2 / CSE-CSE114";"Pedro Luiz Paolino Chaim"
-"3";"CNM7324";"07304";"Economia da Inovação e Tecnologia";"2.0820-2 / CSE-CSE110
-4.0820-2 / CSE-CSE110";"Janaina Führ"
-"3";"CNM7332";"09304";"Gestão Financeira Empresarial";"2.1010-2 / AUX-ALOCAR
-4.1010-2 / AUX-ALOCAR";"Raimundo Nonato de Oliveira"
-"3";"CNM7334";"08304";"Economia Comportamental";"2.1010-2 / CSE-CSE211
-5.1010-2 / CSE-CSE211";"Eraldo Sergio Barbosa da Silva"
-"3";"CNM7338";"05304";"Desenvolvimento Sócio-Econômico";"3.0820-2 / CSE-CSE114
-5.0820-2 / CSE-CSE114";"Solange Regina Marin"
+4.0820-2 / CSE-CSE101";"Professor A Contratar"
+"3";"CNM7321";"07304";"Mercado de Capitais II";"2.1010-2 / AUX-ALOCAR
+4.0820-2 / AUX-ALOCAR";"João Frois Caldeira"
+"3";"CNM7322";"08304";"Finanças Empresariais";"4.1010-2 / AUX-ALOCAR
+6.1010-2 / AUX-ALOCAR";"Pedro Luiz Paolino Chaim"
 "3";"CNM7353";"07304";"Economia Brasileira Contemporânea";"2.1010-2 / CSE-CSE111
 4.1010-2 / CSE-CSE111";"Pablo Felipe Bittencourt"
-"3";"CNM7418";"04304";"Economia Política III";"3.0820-2 / CSE-CSE115
-6.0820-2 / CSE-CSE115";"Nildo Domingos Ouriques"
-"3";"CNM7623";"09304";"Atividades Complementares";"";"Daniel de Santana Vasconcelos"
-"3";"CNM7701";"09304";"Programa de Intercâmbio em Ciências Econômicas I";"";"Daniel de Santana Vasconcelos"
-"3";"CNM7702";"09304";"Programa de Intercâmbio em Ciências Econômicas II";"";"Daniel de Santana Vasconcelos"
-"3";"CNM7804";"07304";"Tópicos Especiais - Área de Relações Internacionais";"5.1620-2 / CSE-CSE101";"Graciela de Conti Pagliari"
+"3";"CNM7623";"09304";"Atividades Complementares";"";"Helberte Joao Franca Almeida"
+"3";"CNM7701";"09304";"Programa de Intercâmbio em Ciências Econômicas I";"";"Helberte Joao Franca Almeida"
+"3";"CNM7702";"09304";"Programa de Intercâmbio em Ciências Econômicas II";"";"Helberte Joao Franca Almeida"
 "3";"DIR6011";"01304";"Instituições de Direito Público e Privado";"2.1010-2 / CSE-CSE107";"Sandra Regina Leal"
 "3";"DIR7103";"07304";"Instituições de Direito Público";"3.1010-2 / CSE-CSE111";"Sandra Regina Leal"
 "3";"DIR7105";"07304";"Direito Econômico";"5.0820-2 / CSE-CSE111";"Everton das Neves Gonçalves"
 "3";"EGC5013";"09304";"Gestão do Conhecimento nas Organizações";"6.1420-4 / AUX-ALOCAR";"Gregorio Jean Varvakis Rados"
 "3";"EGC5017";"09304";"Comércio Eletrônico";"2.2020-2 / AUX-ALOCAR
 4.2020-2 / AUX-ALOCAR";"Alexandre Augusto Biz"
-"3";"EGC5018";"08304";"Introdução a Gestão da Inovação";"7.0820-4 / AUX-ALOCAR";"Jose Leomar Todesco
-Roberto Carlos dos Santos Pacheco
+"3";"EGC5018";"08304";"Introdução a Gestão da Inovação";"7.0820-4 / AUX-ALOCAR";"Roberto Carlos dos Santos Pacheco
 Fernando Alvaro Ostuni Gauthier"
 "3";"EGC5019";"09304";"Ambientes Virtuais de Aprendizagem";"4.1420-2 / AUX-ALOCAR
 7.0820-2 / AUX-ALOCAR";"Marcio Vieira de Souza"
-"3";"EGC5263";"07304";"Finanças Pessoais";"4.0820-4 / AUX-ALOCAR";"Jurandir Sell Macedo Junior
-Alexandre Augusto Biz"
+"3";"EGC5263";"07304";"Finanças Pessoais";"4.0820-4 / AUX-ALOCAR";"Alexandre Augusto Biz
+Jurandir Sell Macedo Junior"
+"3";"HST5147";"04304";"Historia Economica Geral";"4.0820-2 / AUX-ALOCAR
+6.1010-2 / AUX-ALOCAR";"Rogerio Luiz Klaumann de Souza"
 "3";"INE5113";"01304";"Introdução à Estatística";"3.0820-2 / CSE-CSE107
 5.0820-2 / CSE-CSE107";"Andréa Cristina Konrath"
-"3";"MTM3100";"01304";"Pré-Cálculo";"2.0820-2 / CSE-CSE107
-4.1010-2 / CSE-CSE107";"Maíra Fernandes Gauer Palma"
-"3";"MTM3101";"02304";"Cálculo 1";"2.0820-2 / CSE-CSE109
-4.1010-2 / CSE-CSE109";"Jorge Jose Garces Perez"
+"3";"MTM3100";"01304";"Pré-Cálculo";"2.0820-2 / AUX-ALOCAR
+4.1010-2 / AUX-ALOCAR";"Sérgio Tadao Martins"
+"3";"MTM3101";"02304";"Cálculo 1";"2.0820-2 / AUX-ALOCAR
+4.1010-2 / AUX-ALOCAR";"Fábio Junior Margotti"
 "3";"MTM3111";"02304";"Geometria Analítica";"3.1010-2 / CSE-CSE109
-5.1010-2 / CSE-CSE109";"Helder Geovane Gomes de Lima"
+5.1010-2 / CSE-CSE109";"Alda Dayana Mattos Mortari"
 "3";"SPO7890";"02304";"Sociologia";"2.1010-2 / CSE-CSE109
 6.1010-2 / CSE-CSE109";"José Pedro Simões Neto"
 "3";"SPO7895";"03304";"Ciência Política";"4.0820-2 / CSE-CSE113
-6.1010-2 / CSE-CSE113";"Ernesto Seidl"
+6.1010-2 / CSE-CSE113";"Marcelo Simões Serran de Pinho"
 "3";"CAD5103";"08318";"Administração I";"2.2020-2 / CSE-CSE211
-4.2020-2 / CSE-CSE211";"Maurício Carreira Cosentino"
-"3";"CCN5190";"07318";"Contabilidade e Analise de Balanços I";"4.1830-2 / CSE-CSE109
-6.1830-2 / CSE-CSE109";"Alessandra Rodrigues Machado de Araujo"
+4.2020-2 / CSE-CSE211";"Taisa Dias"
+"3";"CCN5190";"07318";"Contabilidade e Analise de Balanços I";"4.1830-2 / AUX-ALOCAR
+6.1830-2 / CSE-CSE109";"Erves Ducati"
+"3";"CCN6118";"05318";"Contabilidade e Análise Financeira";"2.2020-2 / AUX-ALOCAR
+4.2020-2 / AUX-ALOCAR";"Irineu Afonso Frey"
 "3";"CNM6000";"01318";"Introdução à Macroeconomia";"4.2020-2 / CSE-CSE107
-6.2020-2 / CSE-CSE107";"Rosangela Aparecida da Silva"
+6.2020-2 / CSE-CSE107";"Eva Yamila Amanda da Silva Catela"
 "3";"CNM6001";"01318";"Informática para Economistas";"3.2020-2 / AUX-ALOCAR";"Arlei Luiz Fachinello"
 "3";"CNM6002";"01318";"Introdução ao Pensamento Econômico";"5.2020-2 / CSE-CSE107
 6.1830-2 / CSE-CSE107";"Armando de Melo Lisboa"
@@ -466,278 +455,249 @@ Alexandre Augusto Biz"
 "3";"CNM6004";"02318";"Contabilidade Social";"2.1830-2 / CSE-CSE109
 5.1830-2 / CSE-CSE109";"Carmen Rosario Ortiz Gutierrez Gelinski"
 "3";"CNM6005";"03318";"Economia Política I";"3.1830-2 / CSE-CSE113
-5.2020-2 / CSE-CSE113";"Nildo Domingos Ouriques"
+5.2020-2 / AUX-ALOCAR";"Nildo Domingos Ouriques"
+"3";"CNM6006";"04318";"Economia Política II";"2.2020-2 / AUX-ALOCAR
+5.1830-2 / AUX-ALOCAR";"Valdir Alvim da Silva"
 "3";"CNM6007";"03318";"Economia Matemática";"2.2020-2 / CSE-CSE113
-5.1830-2 / CSE-CSE113";"Rosangela Aparecida da Silva"
+5.1830-2 / CSE-CSE113";"Francis Carlo Petterini Lourenço"
 "3";"CNM6008";"03318";"Macroeconomia I";"2.1830-2 / CSE-CSE113
-4.1830-2 / CSE-CSE113";"Mauricio Simiano Nunes"
+4.1830-2 / CSE-CSE113";"Guilherme de Oliveira"
+"3";"CNM6009";"04318";"Macroeconomia II";"2.1830-2 / AUX-ALOCAR
+4.1830-2 / AUX-ALOCAR";"Áureo Leandro Haag"
+"3";"CNM6010";"05318";"Macroeconomia III";"3.1830-2 / AUX-ALOCAR
+5.1830-2 / AUX-ALOCAR";"Daniel de Santana Vasconcelos"
 "3";"CNM6011";"03318";"Estatística Econômica";"4.2020-2 / CSE-CSE113
-6.1830-2 / CSE-CSE113";"Milton Biage"
-"3";"CNM6028";"06318";"Resolução de Problemas em Economia";"3.1830-2 / CSE-CSE211
-5.1830-2 / CSE-CSE211";"Daniel de Santana Vasconcelos"
-"3";"CNM7104";"04318";"Metodologia Econômica";"2.2020-2 / CSE-CSE115
-6.2020-2 / CSE-CSE115";"Ronivaldo Steingraber"
+6.1830-2 / CSE-CSE113";"Gueibi Peres Souza"
+"3";"CNM6012";"04318";"Microeconomia I";"4.2020-2 / AUX-ALOCAR
+6.2020-2 / AUX-ALOCAR";"Ronivaldo Steingraber"
+"3";"CNM6013";"05318";"Microeconomia II";"5.2020-2 / AUX-ALOCAR
+6.1830-2 / AUX-ALOCAR";"Gilson Geraldino da Silva Junior"
+"3";"CNM6015";"04318";"Econometria";"3.1830-2 / AUX-ALOCAR
+5.2020-2 / AUX-ALOCAR";"Milton Biage"
+"3";"CNM6016";"05318";"Formação Econômica do Brasil";"2.1830-2 / AUX-ALOCAR
+4.1830-2 / AUX-ALOCAR";"Marcos Alves Valente"
+"3";"CNM6017";"05318";"Desenvolvimento Socioeconômico";"3.2020-2 / AUX-ALOCAR
+6.2020-2 / AUX-ALOCAR";"Dominik Hartmann"
 "3";"CNM7105";"08318";"Metodologia Econômica II";"2.1830-2 / CSE-CSE111
 4.1830-2 / CSE-CSE111";"Marialice de Moraes"
 "3";"CNM7106";"09318";"Evolução do Pensamento Econômico";"2.1830-2 / CSE-CSE211
-4.1830-2 / CSE-CSE211";"Janaina Führ"
-"3";"CNM7107";"08318";"Monografia";"";"Helberte Joao Franca Almeida"
-"3";"CNM7119";"05318";"Formação Econômica do Brasil I";"2.2020-2 / CSE-CSE114
-4.2020-2 / CSE-CSE114";"Fabio Padua dos Santos"
+4.1830-2 / CSE-CSE211";"Lauro Francisco Mattei"
+"3";"CNM7107";"08318";"Monografia";"";"Liana Bohn"
 "3";"CNM7120";"06318";"Formação Econômica do Brasil II";"2.1830-2 / CSE-CSE101
-4.2020-2 / CSE-CSE101";"Professor Não Informado"
+4.2020-2 / AUX-ALOCAR";"Fabio Padua dos Santos"
 "3";"CNM7136";"06318";"Economia Internacional II";"3.2020-2 / CSE-CSE101
-5.2020-2 / CSE-CSE101";"Janaina Führ"
-"3";"CNM7150";"03318";"Macroeconomia II";"2.1830-2 / CSE-CSE107
-4.1830-2 / CSE-CSE107";"Michele Romanello"
-"3";"CNM7150";"03318A";"Macroeconomia II";"";"Professor Não Informado"
-"3";"CNM7154";"04318";"Macroeconomia III";"2.1830-2 / CSE-CSE115
-4.1830-2 / CSE-CSE115";"Wagner Leal Arienti"
-"3";"CNM7160";"02318";"Microeconomia I";"2.2020-2 / CSE-CSE111
-4.2020-2 / CSE-CSE111";"Michele Romanello"
-"3";"CNM7161";"03318";"Microeconomia II";"2.2020-2 / CSE-CSE101
-5.1830-2 / CSE-CSE101";"Helberte Joao Franca Almeida"
+5.2020-2 / CSE-CSE101";"Wagner Leal Arienti"
 "3";"CNM7162";"04318";"Microeconomia III";"4.2020-2 / CSE-CSE115
-6.1830-2 / CSE-CSE115";"Dominik Hartmann"
+6.1830-2 / CSE-CSE115";"Luiz Carlos de Carvalho Junior"
 "3";"CNM7208";"06318";"Economia do Setor Público";"4.1830-2 / CSE-CSE101
 6.1830-2 / CSE-CSE101";"Brena Paula Magno Fernandez"
 "3";"CNM7223";"05318";"Economia Internacional I";"4.1830-2 / CSE-CSE114
 6.1830-2 / CSE-CSE114";"Liana Bohn"
-"3";"CNM7241";"04318";"Econometria";"3.2020-2 / CSE-CSE115
-5.2020-2 / CSE-CSE115";"Gueibi Peres Souza"
 "3";"CNM7266";"05318";"Economia Monetária";"2.1830-2 / CSE-CSE114
-5.2020-2 / CSE-CSE114";"Pedro Luiz Paolino Chaim"
-"3";"CNM7307";"05318";"Mercado de Capitais I";"3.1830-2 / CSE-CSE114
-5.1830-2 / CSE-CSE114";"Alexandre Schwinden Garcia"
-"3";"CNM7321";"08318";"Mercado de Capitais II";"3.2020-2 / EF1-EFI304
-5.2020-2 / EF1-EFI304";"Alexandre Schwinden Garcia"
-"3";"CNM7338";"05318";"Desenvolvimento Sócio-Econômico";"3.2020-2 / CSE-CSE114
-6.2020-2 / CSE-CSE114";"Dominik Hartmann"
+5.2020-2 / CSE-CSE114";"Roberto Meurer"
+"3";"CNM7307";"05318";"Mercado de Capitais I";"3.1830-2 / AUX-ALOCAR
+5.1830-2 / AUX-ALOCAR";"Pedro Luiz Paolino Chaim"
+"3";"CNM7312";"07318";"Análise de Investimentos";"3.2020-2 / AUX-ALOCAR
+5.2020-2 / AUX-ALOCAR";"Professor A Contratar"
+"3";"CNM7333";"08318";"Análise de Séries Temporais";"2.1830-2 / AUX-ALOCAR
+4.1830-2 / AUX-ALOCAR";"Guilherme Valle Moura"
+"3";"CNM7334";"08318";"Economia Comportamental";"4.1830-2 / AUX-ALOCAR
+6.1830-2 / AUX-ALOCAR";"Eraldo Sergio Barbosa da Silva"
 "3";"CNM7353";"07318";"Economia Brasileira Contemporânea";"3.1830-2 / CSE-CSE111
-5.1830-2 / CSE-CSE111";"Professor Não Informado"
-"3";"CNM7414";"07318";"Avaliação Econômica de Políticas Públicas";"2.1830-2 / AUX-ALOCAR
-4.1830-2 / AUX-ALOCAR";"Francis Carlo Petterini Lourenço"
-"3";"CNM7417";"03318";"Economia Política II";"3.2020-2 / CSE-CSE111
-5.2020-2 / CSE-CSE111";"Valdir Alvim da Silva"
+5.1830-2 / CSE-CSE111";"Marcelo Arend"
 "3";"CNM7418";"04318";"Economia Política III";"3.1830-2 / CSE-CSE115
-5.1830-2 / CSE-CSE115";"Janaina Führ"
-"3";"CNM7623";"09318";"Atividades Complementares";"";"Daniel de Santana Vasconcelos"
-"3";"DIR6011";"01318";"Instituições de Direito Público e Privado";"2.1830-2 / EF1-EFI305";"Sandra Regina Leal"
-"3";"DIR7103";"07318";"Instituições de Direito Público";"3.2020-2 / CSE-CSE202";"Matheus Simões Nunes"
+5.1830-2 / CSE-CSE115";"Agripa Faria Alexandre"
+"3";"CNM7623";"09318";"Atividades Complementares";"";"Helberte Joao Franca Almeida"
+"3";"CNM8003";"08318";"Economia Feminista";"2.2020-2 / AUX-ALOCAR
+4.2020-2 / AUX-ALOCAR";"Brena Paula Magno Fernandez"
+"3";"DIR6011";"01318";"Instituições de Direito Público e Privado";"2.1830-2 / AUX-ALOCAR";"Sandra Regina Leal"
+"3";"DIR7103";"07318";"Instituições de Direito Público";"3.2020-2 / CSE-CSE202";"Valcir Gassen"
 "3";"DIR7105";"07318";"Direito Econômico";"5.2020-2 / CSE-CSE210";"Everton das Neves Gonçalves"
 "3";"EGC5020";"09318";"Redes Sociais e Virtuais";"5.1830-2 / AUX-ALOCAR
 7.1010-2 / AUX-ALOCAR";"Marcio Vieira de Souza"
 "3";"EGC5028";"09318";"Habitats de Inovação";"5.1830-4 / AUX-ALOCAR";"Marcelo Macedo"
-"3";"HST5147";"01318";"Historia Economica Geral";"3.2020-2 / CSE-CSE002
-6.1830-2 / CSE-CSE002";"Rogerio Luiz de Souza"
+"3";"HST5147";"04318";"Historia Economica Geral";"3.2020-2 / AUX-ALOCAR
+6.1830-2 / AUX-ALOCAR";"Rogerio Luiz Klaumann de Souza"
 "3";"INE5113";"01318";"Introdução à Estatística";"3.1830-2 / CSE-CSE107
-5.1830-2 / CSE-CSE107";"Manoella Reis Cardenutto"
-"3";"MTM3100";"01318";"Pré-Cálculo";"2.2020-2 / EF1-EFI304
-4.1830-2 / EF1-EFI304";"Professor Não Informado"
-"3";"MTM3101";"02318";"Cálculo 1";"2.2020-2 / EF1-EFI405
-4.1830-2 / EF1-EFI405";"Luiz Gustavo Cordeiro"
-"3";"MTM3111";"02318";"Geometria Analítica";"3.1830-2 / EF1-EFI202
-6.1830-2 / EF1-EFI202";"Eduardo Tengan"
-"3";"MTM5150";"07318";"Matemática Financeira";"";"Professor Não Informado"
+5.1830-2 / CSE-CSE107";"Professor A Contratar"
+"3";"MTM3100";"01318";"Pré-Cálculo";"2.2020-2 / AUX-ALOCAR
+4.1830-2 / AUX-ALOCAR";"Felipe Augusto Tasca"
+"3";"MTM3101";"02318";"Cálculo 1";"2.2020-2 / AUX-ALOCAR
+4.1830-2 / AUX-ALOCAR";"Aldrovando Luis Azeredo Araujo"
+"3";"MTM3111";"02318";"Geometria Analítica";"3.1830-2 / AUX-ALOCAR
+6.1830-2 / AUX-ALOCAR";"Eduardo Tengan"
 "3";"SPO7890";"02318";"Sociologia";"3.2020-2 / CSE-CSE109
 6.2020-2 / CSE-CSE109";"Itamar Aguiar"
 "3";"SPO7895";"03318";"Ciência Política";"3.2020-2 / CSE-CSE113
 6.2020-2 / CSE-CSE113";"Marcelo Simões Serran de Pinho"
-"4";"CIN7003";"01340";"Pesquisa Bibliográfica";"5.1620-2 / CSE-CSE107";"Laila Figueiredo di Pietro"
-"4";"CNM5360";"07340";"Economia Política Internacional";"3.1620-2 / CSE-CSE115
-6.1620-2 / CSE-CSE115";"Miguel Borba de Sá"
-"4";"CNM5550";"08340";"Tópicos Especiais em Estudos Regionais";"4.1420-4 / CSE-CSE102";"Karine de Souza Silva"
-"4";"CNM5551";"08340";"Tópicos Especiais em Relações Internacionais";"2.1420-2 / CSE-CSE101
-3.1420-2 / CSE-CSE101";"Juliana Lyra Viggiano Barroso"
+"4";"CIN7003";"01340";"Pesquisa Bibliográfica";"5.1620-2 / CSE-CSE107";"Professor A Contratar"
+"4";"CNM5231";"08340";"Ecodesenvolvimento e Economia Ambiental";"3.1420-2 / AUX-ALOCAR
+5.1420-2 / AUX-ALOCAR";"Agripa Faria Alexandre"
+"4";"CNM5360";"07340";"Economia Política Internacional";"2.1420-2 / AUX-ALOCAR
+5.1420-2 / AUX-ALOCAR";"Jaime Cesar Coelho"
+"4";"CNM5550";"05340";"Tópicos Especiais em Estudos Regionais";"6.1420-4 / AUX-ALOCAR";"Clarissa Franzoi Dri"
+"4";"CNM5550";"08340";"Tópicos Especiais em Estudos Regionais";"6.1420-4 / AUX-ALOCAR";"Clarissa Franzoi Dri"
+"4";"CNM5551";"08340";"Tópicos Especiais em Relações Internacionais";"2.1420-4 / AUX-ALOCAR";"Juliana Lyra Viggiano Barroso"
 "4";"CNM7210";"01340";"Introdução às Relações Internacionais";"2.1620-2 / CSE-CSE107
-5.1420-2 / CSE-CSE107";"Graciela de Conti Pagliari"
+5.1420-2 / CSE-CSE107";"Daniel Ricardo Castelan"
 "4";"CNM7211";"01340";"Introdução à Economia";"3.1420-2 / CSE-CSE107
 6.1420-2 / CSE-CSE107";"Patricia Fonseca Ferreira Arienti"
-"4";"CNM7220";"02340";"Comércio Exterior";"5.1420-2 / CSE-CSE110
-6.1620-2 / CSE-CSE110";"Fernando Seabra"
-"4";"CNM7221";"02340";"Teoria das Relações Internacionais I";"2.1420-4 / CSE-CSE110";"Camila Feix Vidal"
+"4";"CNM7220";"02340";"Comércio Exterior";"5.1420-2 / AUX-ALOCAR
+6.1620-2 / AUX-ALOCAR";"Fernando Seabra"
+"4";"CNM7221";"02340";"Teoria das Relações Internacionais I";"2.1420-2 / CSE-CSE110
+4.1420-2 / CSE-CSE110";"Camila Feix Vidal"
 "4";"CNM7230";"03340";"Macro (Macro Aberta)";"4.1620-2 / CSE-CSE109
-5.1620-2 / CSE-CSE109";"Liana Bohn"
+5.1620-2 / CSE-CSE109";"Professor A Contratar"
 "4";"CNM7232";"05340";"Teoria das Relações Internacionais II";"2.1420-2 / CSE-CSE114
 5.1420-2 / CSE-CSE114";"Mónica Salomón González"
-"4";"CNM7235";"07340";"Análise de Política Externa";"2.1830-2 / EF1-EFI404
-4.1830-2 / EF1-EFI404";"Miguel Borba de Sá"
-"4";"CNM7236";"04340";"Segurança Internacional";"2.1420-2 / CSE-CSE113
-4.1420-2 / CSE-CSE113";"Graciela de Conti Pagliari"
+"4";"CNM7235";"07340";"Análise de Política Externa";"4.1420-4 / AUX-ALOCAR";"Mónica Salomón González"
+"4";"CNM7236";"04340";"Segurança Internacional";"2.1420-2 / AUX-ALOCAR
+4.1420-2 / AUX-ALOCAR";"Graciela de Conti Pagliari"
 "4";"CNM7240";"04340";"Formação Econômica do Brasil I";"2.1620-2 / CSE-CSE113
-4.1620-2 / CSE-CSE113";"Marcos Alves Valente
-Fabio Padua dos Santos"
+4.1620-2 / CSE-CSE113";"Marcos Alves Valente"
 "4";"CNM7242";"04340";"Geografia Econômica Internacional";"3.1420-2 / CSE-CSE113
-5.1420-2 / CSE-CSE113";"Helton Ricardo Ouriques"
-"4";"CNM7243";"06340";"Tópicos Especiais em Teoria das Relações Internacionais";"3.1420-4 / CSE-CSE102";"Camila Feix Vidal"
+5.1420-2 / CSE-CSE113";"Professor A Contratar"
 "4";"CNM7244";"03340";"Organizações Internacionais";"2.1420-4 / CSE-CSE109";"Karine de Souza Silva"
 "4";"CNM7245";"04340";"Economia Internacional I";"5.1620-2 / CSE-CSE113
-6.1420-2 / CSE-CSE113";"Professor Não Informado"
-"4";"CNM7246";"07340";"Geopolítica";"";"Professor Não Informado"
+6.1420-2 / CSE-CSE113";"Fernando Seabra"
+"4";"CNM7246";"08340";"Geopolítica";"6.1420-4 / AUX-ALOCAR";"Helton Ricardo Ouriques"
+"4";"CNM7250";"07340";"Relações Internacionais e Cinema";"6.1420-4 / AUX-ALOCAR";"Lucas Pereira Rezende"
 "4";"CNM7251";"05340";"Formação Econômica do Brasil II";"3.1420-2 / CSE-CSE114
 4.1420-2 / CSE-CSE114";"Fabio Padua dos Santos"
 "4";"CNM7252";"05340";"Economia Internacional II (Finanças)";"2.1620-2 / CSE-CSE114
-4.1620-2 / CSE-CSE114";"Professor Não Informado"
-"4";"CNM7253";"04340";"Negociação Internacional";"3.1620-2 / CSE-CSE113
-6.1620-2 / CSE-CSE113";"Daniel Ricardo Castelan"
+4.1620-2 / CSE-CSE114";"Jaime Cesar Coelho"
+"4";"CNM7253";"04340";"Negociação Internacional";"3.1620-2 / AUX-ALOCAR
+6.1620-2 / AUX-ALOCAR";"Iara Costa Leite"
 "4";"CNM7261";"06340";"Política Externa Brasileira I";"2.1620-2 / CSE-CSE115
-4.1620-2 / CSE-CSE115";"Miguel Borba de Sá"
-"4";"CNM7263";"06340";"Economia Brasileira Contemporânea";"2.1420-2 / CSE-CSE115
-4.1420-2 / CSE-CSE115";"Pablo Felipe Bittencourt"
-"4";"CNM7264";"06340";"Métodos e Técnicas de Pesquisa na Ciências Sociais e Relações Internacionais";"5.1420-4 / CSE-CSE115";"Danielle Jacon Ayres Pinto"
-"4";"CNM7272";"07340";"Política Externa Brasileira II";"3.1420-2 / CSE-CSE115
-6.1420-2 / CSE-CSE115";"Miguel Borba de Sá"
-"4";"CNM7278";"07340";"Democracia e Relações Internacionais: teoria e prática";"";"Professor Não Informado"
-"4";"CNM7280";"08340";"Monografia";"";"Professor Não Informado"
-"4";"CNM7281";"06340";"Programa de Intercâmbio em Relações Internacionais I";"";"Daniel Ricardo Castelan"
-"4";"CNM7282";"07340";"Programa de Intercâmbio em Relações Internacionais II";"";"Daniel Ricardo Castelan"
-"4";"CNM7500";"03340";"Microeconomia";"4.1420-2 / CSE-CSE109
-6.1420-2 / CSE-CSE109";"Fred Leite Siqueira Campos"
-"4";"CNM7504";"05340";"Política Externa dos Estados Unidos para a América Latina";"6.1420-4 / CSE-CSE114";"Camila Feix Vidal"
+4.1620-2 / CSE-CSE115";"Clarissa Franzoi Dri"
+"4";"CNM7263";"06340";"Economia Brasileira Contemporânea";"2.1420-2 / AUX-ALOCAR
+4.1420-2 / AUX-ALOCAR";"Pablo Felipe Bittencourt"
+"4";"CNM7264";"06340";"Métodos e Técnicas de Pesquisa na Ciências Sociais e Relações Internacionais";"3.1620-2 / AUX-ALOCAR
+5.1620-2 / AUX-ALOCAR";"Agripa Faria Alexandre"
+"4";"CNM7272";"07340";"Política Externa Brasileira II";"3.1420-2 / AUX-ALOCAR
+5.1620-2 / AUX-ALOCAR";"Daniel Ricardo Castelan"
+"4";"CNM7278";"07340";"Democracia e Relações Internacionais: teoria e prática";"2.1010-2 / AUX-ALOCAR
+5.1010-2 / AUX-ALOCAR";"Lucas Pereira Rezende"
+"4";"CNM7280";"08340";"Monografia";"";"Camila Feix Vidal"
+"4";"CNM7281";"06340";"Programa de Intercâmbio em Relações Internacionais I";"";"Iara Costa Leite"
+"4";"CNM7282";"07340";"Programa de Intercâmbio em Relações Internacionais II";"";"Iara Costa Leite"
+"4";"CNM7500";"03340";"Microeconomia";"4.1420-2 / AUX-ALOCAR
+6.1420-2 / AUX-ALOCAR";"Fred Leite Siqueira Campos"
+"4";"CNM7503";"05340";"Relações Internacionais e Ciências, Tecnologia e Inovação";"4.1420-4 / AUX-ALOCAR";""
+"4";"CNM7503";"08340";"Relações Internacionais e Ciências, Tecnologia e Inovação";"4.1420-4 / AUX-ALOCAR";"Danielle Jacon Ayres Pinto"
+"4";"CNM7504";"05340";"Política Externa dos Estados Unidos para a América Latina";"6.1420-4 / AUX-ALOCAR";"Camila Feix Vidal"
+"4";"CNM7505";"08340";"Raça e Relações Internacionais";"4.1830-4 / AUX-ALOCAR";"Karine de Souza Silva"
 "4";"DIR7100";"01340";"Instituições de Direito Público";"4.1420-2 / CSE-CSE107";"Sandra Regina Leal"
 "4";"DIR7101";"02340";"Direito Internacional I";"3.1420-2 / CSE-CSE110
 5.1620-2 / CSE-CSE110";"Letícia Albuquerque"
 "4";"DIR7102";"03340";"Direito Internacional II";"3.1620-2 / CSE-CSE109
 5.1420-2 / CSE-CSE109";"Letícia Albuquerque"
-"4";"HST7111";"01340";"História das Relações Internacionais I";"2.1420-2 / CSE-CSE107
-4.1620-2 / CSE-CSE107";"Márcio Roberto Voigt"
-"4";"HST7112";"02340";"História das Relações Internacionais II";"4.1420-2 / CSE-CSE110
-6.1420-2 / CSE-CSE110";"Márcio Roberto Voigt"
+"4";"HST7111";"01340";"História das Relações Internacionais I";"2.1420-2 / AUX-ALOCAR
+4.1620-2 / AUX-ALOCAR";"Márcio Roberto Voigt"
+"4";"HST7112";"02340";"História das Relações Internacionais II";"2.1620-2 / AUX-ALOCAR
+6.1420-2 / AUX-ALOCAR";"Márcio Roberto Voigt"
 "4";"INE7004";"02340";"Introdução á Estatística";"3.1620-2 / CSE-CSE110
-4.1620-2 / CSE-CSE110";"Meire Mezzomo"
+4.1620-2 / CSE-CSE110";"Andréa Cristina Konrath"
 "4";"SPO7002";"01340";"Ciência Política";"3.1620-2 / CSE-CSE107
-6.1620-2 / CSE-CSE107";"Marcelo Simões Serran de Pinho"
-"4";"SPO7004";"03340";"Teoria Politica I";"3.1420-2 / CSE-CSE109
-6.1620-2 / CSE-CSE109";"Jean Gabriel Castro da Costa"
+6.1620-2 / CSE-CSE107";"Ernesto Seidl"
+"4";"SPO7004";"03340";"Teoria Politica I";"3.1420-2 / AUX-ALOCAR
+6.1620-2 / AUX-ALOCAR";"Jean Gabriel Castro da Costa"
 "4";"SPO7006";"05340";"Teoria Política II";"3.1620-2 / CSE-CSE114
 5.1620-2 / CSE-CSE114";"Luciano da Ros"
-"5";"ANT7100";"03309";"Antropologia Social";"2.0820-4 / CSE-CSE007";"Professor Não Informado"
+"5";"ANT7100";"03309";"Antropologia Social";"2.0820-4 / CSE-CSE007";"Vania Zikan Cardoso"
 "5";"DSS5801";"08309";"Programa de Intercâmbio em Serviço Social I";"";"Professor Não Informado"
-"5";"DSS7101";"01309";"Serviço Social e Realidade Social I";"5.0820-4 / CSE-CSE006";"Carla Rosane Bressan"
-"5";"DSS7102";"02309";"Serviço social e Realidade Social II";"5.0820-4 / CSE-CSE008";"Vera Inêz Gauer"
-"5";"DSS7103";"01309";"Oficina Introdução à Vida Acadêmica";"2.0820-4 / CSE-CSE006";"Vera Inêz Gauer"
-"5";"DSS7104";"02309";"Oficina Serviço Social e Produção Textual";"6.0820-4 / CSE-CSE008";"Sirlandia Schappo"
-"5";"DSS7104";"02309A";"Oficina Serviço Social e Produção Textual";"6.0820-4 / CSE-CSE106";"Vera Inêz Gauer"
-"5";"DSS7105";"04309";"Oficina Preparação ao Estágio";"3.0820-4 / CSE-CSE003";"Eliete Cibele Cipriano Vaz"
-"5";"DSS7106";"06309";"Oficina Análise Institucional e Serviço Social";"3.0820-4 / CSE-CSE004";"Marisa Camargo"
-"5";"DSS7107";"01309";"Introdução ao Conhecimento Científico e Serviço Social";"3.0820-4 / CSE-CSE006";"Myriam Raquel Mitjavila"
-"5";"DSS7110";"03309";"FHTM SSI";"5.0820-4 / CSE-CSE007";"Michelly Laurita Wiese"
-"5";"DSS7111";"04309";"FHTM SSII";"4.0820-4 / CSE-CSE003";"Fabiana Luiza Negri"
-"5";"DSS7112";"05309";"FHTM SS III";"2.0820-4 / CSE-CSE005";"Inez Rocha Zacarias"
-"5";"DSS7113";"03309";"Serviço Social e Economia Política";"6.0820-4 / CSE-CSE007";"Ricardo Lara"
-"5";"DSS7114";"03309";"Classes Sociais e Movimentos Sociais";"4.0820-4 / CSE-CSE007";"Maria Teresa dos Santos"
-"5";"DSS7115";"04309";"Método Crítico Dialético";"6.0820-4 / CSE-CSE003";"Cristiane Luiza Sabino de Souza"
-"5";"DSS7117";"05309";"Ética Profissional do Serviço Social";"4.0820-4 / CSE-CSE005";"Simone Sobral Sampaio"
-"5";"DSS7118";"05309";"Instrumentalidade e Competências Profissionais em Serviço Social";"5.0820-4 / CSE-CSE005";"Mariana Pfeifer Machado"
+"5";"DSS7101";"01309";"Serviço Social e Realidade Social I";"5.0820-4 / AUX-ALOCAR";"Camila Magalhães Nélsis"
+"5";"DSS7102";"02309";"Serviço social e Realidade Social II";"5.0820-4 / AUX-ALOCAR";"Mariana Pfeifer Machado"
+"5";"DSS7102";"02309A";"Serviço social e Realidade Social II";"5.0820-4 / AUX-ALOCAR";"Maria Regina de Avila Moreira"
+"5";"DSS7103";"01309";"Oficina Introdução à Vida Acadêmica";"3.0820-4 / AUX-ALOCAR";"Liliane Moser
+Rúbia dos Santos Ronzoni
+Helenara Silveira Fagundes
+Helder Boska de Moraes Sarmento"
+"5";"DSS7105";"04309";"Oficina Preparação ao Estágio";"3.0820-4 / AUX-ALOCAR";"Eliete Cibele Cipriano Vaz"
+"5";"DSS7106";"06309";"Oficina Análise Institucional e Serviço Social";"3.0820-4 / AUX-ALOCAR";"Marisa Camargo"
+"5";"DSS7107";"01309";"Introdução ao Conhecimento Científico e Serviço Social";"2.0820-4 / AUX-ALOCAR";"Mariana Pfeifer Machado"
+"5";"DSS7110";"03309";"FHTM SSI";"5.0820-4 / AUX-ALOCAR";"Michelly Laurita Wiese"
+"5";"DSS7111";"04309";"FHTM SSII";"6.0820-4 / AUX-ALOCAR";"Camila Magalhães Nélsis"
+"5";"DSS7112";"05309";"FHTM SS III";"4.0820-4 / AUX-ALOCAR";"Inez Rocha Zacarias"
+"5";"DSS7113";"03309";"Serviço Social e Economia Política";"6.0820-4 / AUX-ALOCAR";"Ricardo Lara"
+"5";"DSS7114";"03309";"Classes Sociais e Movimentos Sociais";"4.0820-4 / AUX-ALOCAR";"Heloisa Teles"
+"5";"DSS7115";"04309";"Método Crítico Dialético";"4.0820-4 / AUX-ALOCAR";"Edivane de Jesus"
+"5";"DSS7117";"05309";"Ética Profissional do Serviço Social";"3.0820-4 / AUX-ALOCAR";"Simone Sobral Sampaio"
+"5";"DSS7118";"05309";"Instrumentalidade e Competências Profissionais em Serviço Social";"6.0820-4 / AUX-ALOCAR";"Helder Boska de Moraes Sarmento"
 "5";"DSS7120";"03309";"Serviço Social, Direito e Cidadania";"3.0820-4 / CSE-CSE007";"Maria Del Carmen Cortizo"
-"5";"DSS7121";"04309";"Política Social";"2.0820-4 / CSE-CSE003";"Edilane Bertelli"
-"5";"DSS7122";"05309";"Serviço Social e Previdência Social";"3.0820-4 / CSE-CSE005";"Edivane de Jesus"
-"5";"DSS7123";"06309";"Serviço social e Assistência Social";"5.0820-4 / CSE-CSE004";"Rúbia dos Santos Ronzoni"
-"5";"DSS7124";"07309";"Serviço Social e Saúde";"4.0820-4 / CSE-CSE105";"Keli Regina Dal Prá"
+"5";"DSS7121";"04309";"Política Social";"2.0820-4 / AUX-ALOCAR";"Edilane Bertelli"
+"5";"DSS7122";"05309";"Serviço Social e Previdência Social";"5.0820-4 / CSE-CSE005";"Edivane de Jesus"
+"5";"DSS7123";"06309";"Serviço social e Assistência Social";"5.0820-4 / AUX-ALOCAR";"Edilane Bertelli"
+"5";"DSS7124";"07309";"Serviço Social e Saúde";"6.0820-4 / AUX-ALOCAR";"Keli Regina Dal Prá"
 "5";"DSS7125";"06309";"Pesquisa em Serviço social I";"4.0820-4 / CSE-CSE004";"Luciana Patrícia Zucco"
-"5";"DSS7126";"07309";"Pesquisa em Serviço Social II";"5.0820-4 / CSE-CSE105";"Helenara Silveira Fagundes"
-"5";"DSS7127";"07309";"Gestão e Planejamento em serviço Social I";"3.0820-4 / CSE-CSE105";"Sirlandia Schappo"
-"5";"DSS7128";"08309";"Gestão e Planejamento em serviço Social II";"3.0820-4 / CSE-CSE002";"Tania Regina Kruger"
-"5";"DSS7131";"06309";"Supervisão Acadêmica de Estágio Obrigatório I";"2.0820-4 / CSE-CSE004";"Rúbia dos Santos Ronzoni
-Edivane de Jesus
-Andréa Márcia Santiago Lohmeyer Fuchs"
-"5";"DSS7132";"07309";"Supervisão Acadêmica de Estágio Obrigatório II";"2.0820-4 / CSE-CSE105";"Edivane de Jesus
-Rúbia dos Santos Ronzoni
-Andréa Márcia Santiago Lohmeyer Fuchs"
-"5";"DSS7133";"08309";"Supervisão Acadêmica de Estágio Obrigatório III";"2.0820-4 / CSE-CSE002";"Edivane de Jesus
-Rúbia dos Santos Ronzoni
-Andréa Márcia Santiago Lohmeyer Fuchs"
-"5";"DSS7141";"06309";"Estágio Supervisionado em Serviço Social Obrigatório I";"";"Marisa Camargo"
-"5";"DSS7142";"07309";"Estágio Superv.em Serv. Social Obrigatório II";"";"Marisa Camargo"
-"5";"DSS7143";"08309";"Estágio Supervisionado em serviço Social Obrigatório III";"";"Marisa Camargo"
-"5";"DSS7151";"08309";"Trabalho de conclusão de Curso I";"4.0820-2 / CSE-CSE002";"Helenara Silveira Fagundes"
-"5";"DSS7152";"09309";"Trabalho de Conclusão de Curso II";"";"Helenara Silveira Fagundes"
-"5";"DSS7153";"09309";"Serviço Social e Desafios Profissionais Contemporâneos";"3.0820-4 / CSE-CSE106";"Liliane Moser"
-"5";"DSS7165";"02309";"Serviço Social e Envelhecimento";"2.0820-4 / AUX-ALOCAR";"Eliete Cibele Cipriano Vaz"
-"5";"DSS7171";"05309";"Serviço Social e Instituições Público-Privadas";"6.0820-4 / CSE-CSE004";"Tania Regina Kruger"
-"5";"FIL7100";"04309";"Introdução a Ética";"5.0820-4 / CSE-CSE003";"Maria Alice da Silva"
-"5";"HST7105";"01309";"Formação Sócio-histórico do Brasil";"6.0820-4 / CSE-CSE006";"Professor Não Informado"
+"5";"DSS7126";"07309";"Pesquisa em Serviço Social II";"4.0820-4 / CSE-CSE105";"Helenara Silveira Fagundes"
+"5";"DSS7127";"07309";"Gestão e Planejamento em serviço Social I";"3.0820-4 / AUX-ALOCAR";"Beatriz Augusto de Paiva"
+"5";"DSS7128";"08309";"Gestão e Planejamento em serviço Social II";"3.0820-4 / AUX-ALOCAR";"Sirlandia Schappo"
+"5";"DSS7131";"06309";"Supervisão Acadêmica de Estágio Obrigatório I";"2.0820-4 / AUX-ALOCAR";"Maria Regina de Avila Moreira"
+"5";"DSS7132";"07309";"Supervisão Acadêmica de Estágio Obrigatório II";"2.0820-4 / AUX-ALOCAR";"Heloisa Teles"
+"5";"DSS7133";"08309";"Supervisão Acadêmica de Estágio Obrigatório III";"2.0820-4 / CSE-CSE002";"Andréa Márcia Santiago Lohmeyer Fuchs"
+"5";"DSS7134";"05309";"Supervisão Acadêmica de Estágio não Obrigatório I";"2.0820-2 / AUX-ALOCAR";"Professor Não Informado"
+"5";"DSS7135";"09309";"Supervisão Acadêmica de Estágio não Obrigatório II";"2.1620-2 / AUX-ALOCAR";"Fabiana Luiza Negri"
+"5";"DSS7141";"06309";"Estágio Supervisionado em Serviço Social Obrigatório I";"";"Fabiana Luiza Negri"
+"5";"DSS7142";"07309";"Estágio Superv.em Serv. Social Obrigatório II";"";"Fabiana Luiza Negri"
+"5";"DSS7143";"08309";"Estágio Supervisionado em serviço Social Obrigatório III";"";"Fabiana Luiza Negri"
+"5";"DSS7144";"05309";"Estágio Curricular Não Obrigatório I";"";"Fabiana Luiza Negri"
+"5";"DSS7145";"09309";"Estágio Curricular Não Obrigatório II";"";"Fabiana Luiza Negri"
+"5";"DSS7151";"08309";"Trabalho de conclusão de Curso I";"4.0820-2 / CSE-CSE002";"Inez Rocha Zacarias"
+"5";"DSS7152";"09309";"Trabalho de Conclusão de Curso II";"";"Inez Rocha Zacarias"
+"5";"DSS7153";"09309";"Serviço Social e Desafios Profissionais Contemporâneos";"3.0820-4 / AUX-ALOCAR";""
+"5";"FIL7100";"04309";"Introdução a Ética";"5.0820-4 / CSE-CSE003";"Julia Sichieri Moura"
+"5";"HST7105";"01309";"Formação Sócio-histórico do Brasil";"6.0820-4 / AUX-ALOCAR";"Glaucia Cristina Candian Fraccaro"
+"5";"LSB7904";"07309";"Língua Brasileira de Sinais I (PCC 18horas-aula)";"5.0820-4 / AUX-ALOCAR";"Jaqueline Boldo"
 "5";"PSI7150";"02309";"Psicologia Social";"4.0820-4 / CSE-CSE008";"Marcos Eduardo Rocha Lima"
-"5";"SPO5236";"02309";"Ciência Política";"3.0820-4 / CSE-CSE008";"Eriberto Jose Meurer"
-"5";"SPO7104";"01309";"Introdução à Teoria Sociológica";"4.0820-4 / CSE-CSE006";"Professor Não Informado"
-"5";"SPO7105";"07309";"Teoria Sociológica Contemporânea";"5.0820-4 / CSE-CSE106";"Itamar Aguiar"
-"5";"ANT7100";"03339";"Antropologia Social";"6.1830-4 / CSE-CSE007";"Simone Lira da Silva"
-"5";"DSS7101";"01339";"Serviço Social e Realidade Social I";"2.1830-4 / CSE-CSE006";"Mariana Pfeifer Machado"
-"5";"DSS7102";"02339";"Serviço social e Realidade Social II";"3.1830-4 / CSE-CSE008";"Rúbia dos Santos Ronzoni"
-"5";"DSS7103";"01339";"Oficina Introdução à Vida Acadêmica";"3.1830-4 / CSE-CSE006";"Vera Inêz Gauer"
-"5";"DSS7104";"02339";"Oficina Serviço Social e Produção Textual";"4.1830-4 / CSE-CSE008";"Sirlandia Schappo"
-"5";"DSS7105";"04339";"Oficina Preparação ao Estágio";"2.1830-4 / CSE-CSE003";"Eliete Cibele Cipriano Vaz"
-"5";"DSS7106";"06339";"Oficina Análise Institucional e Serviço Social";"4.1830-4 / CSE-CSE004";"Marisa Camargo"
-"5";"DSS7107";"01339";"Introdução ao Conhecimento Científico e Serviço Social";"5.1830-4 / CSE-CSE006";"Myriam Raquel Mitjavila"
-"5";"DSS7110";"03339";"FHTM SSI";"3.1830-4 / CSE-CSE007";"Michelly Laurita Wiese"
-"5";"DSS7111";"04339";"FHTM SSII";"5.1830-4 / CSE-CSE003";"Fabiana Luiza Negri"
-"5";"DSS7112";"05339";"FHTM SS III";"4.1830-4 / CSE-CSE005";"Inez Rocha Zacarias"
-"5";"DSS7113";"03339";"Serviço Social e Economia Política";"2.1830-4 / CSE-CSE007";"Cristiane Luiza Sabino de Souza"
-"5";"DSS7114";"03339";"Classes Sociais e Movimentos Sociais";"4.1830-4 / CSE-CSE007";"Maria Teresa dos Santos"
-"5";"DSS7115";"04339";"Método Crítico Dialético";"4.1830-4 / CSE-CSE003";"Cristiane Luiza Sabino de Souza"
-"5";"DSS7117";"05339";"Ética Profissional do Serviço Social";"2.1830-4 / CSE-CSE005";"Vera Inêz Gauer"
-"5";"DSS7118";"05339";"Instrumentalidade e Competências Profissionais em Serviço Social";"3.1830-4 / CSE-CSE005";"Mariana Pfeifer Machado"
-"5";"DSS7120";"03339";"Serviço Social, Direito e Cidadania";"5.1830-4 / CSE-CSE007";"Edilane Bertelli"
+"5";"SPO5236";"02309";"Ciência Política";"3.0820-4 / CSE-CSE008";"Tiago Daher Padovezi Borges"
+"5";"SPO7104";"01309";"Introdução à Teoria Sociológica";"4.0820-4 / CSE-CSE006";"Rafael Leite Mantovani"
+"5";"ANT7100";"03339";"Antropologia Social";"6.1830-4 / CSE-CSE007";"Jeremy Paul Jean Loup Deturche"
+"5";"DSS7101";"01339";"Serviço Social e Realidade Social I";"3.1830-4 / AUX-ALOCAR";"Camila Magalhães Nélsis"
+"5";"DSS7102";"02339";"Serviço social e Realidade Social II";"3.1830-4 / CSE-CSE008";"Mariana Pfeifer Machado"
+"5";"DSS7103";"01339";"Oficina Introdução à Vida Acadêmica";"5.1830-4 / AUX-ALOCAR";"Maria Del Carmen Cortizo
+Luciana Patrícia Zucco
+Myriam Raquel Mitjavila
+Andréa Márcia Santiago Lohmeyer Fuchs"
+"5";"DSS7105";"04339";"Oficina Preparação ao Estágio";"5.1830-4 / AUX-ALOCAR";"Eliete Cibele Cipriano Vaz"
+"5";"DSS7106";"06339";"Oficina Análise Institucional e Serviço Social";"4.1830-4 / AUX-ALOCAR";"Marisa Camargo"
+"5";"DSS7107";"01339";"Introdução ao Conhecimento Científico e Serviço Social";"2.1830-4 / AUX-ALOCAR";"Myriam Raquel Mitjavila"
+"5";"DSS7110";"03339";"FHTM SSI";"3.1830-4 / AUX-ALOCAR";"Michelly Laurita Wiese"
+"5";"DSS7111";"04339";"FHTM SSII";"6.1830-4 / AUX-ALOCAR";"Fabiana Luiza Negri"
+"5";"DSS7112";"05339";"FHTM SS III";"4.1830-4 / AUX-ALOCAR";"Cristiane Luiza Sabino de Souza"
+"5";"DSS7113";"03339";"Serviço Social e Economia Política";"2.1830-4 / AUX-ALOCAR";"Cristiane Luiza Sabino de Souza"
+"5";"DSS7114";"03339";"Classes Sociais e Movimentos Sociais";"5.1830-4 / AUX-ALOCAR";"Maria Teresa dos Santos"
+"5";"DSS7115";"04339";"Método Crítico Dialético";"4.1830-4 / AUX-ALOCAR";"Jaime Hillesheim"
+"5";"DSS7117";"05339";"Ética Profissional do Serviço Social";"5.1830-4 / AUX-ALOCAR";"Carla Rosane Bressan"
+"5";"DSS7118";"05339";"Instrumentalidade e Competências Profissionais em Serviço Social";"3.1830-4 / AUX-ALOCAR";"Helder Boska de Moraes Sarmento"
+"5";"DSS7120";"03339";"Serviço Social, Direito e Cidadania";"4.1830-4 / CSE-CSE007";"Maria Del Carmen Cortizo"
 "5";"DSS7121";"04339";"Política Social";"3.1830-4 / CSE-CSE003";"Edilane Bertelli"
-"5";"DSS7122";"05339";"Serviço Social e Previdência Social";"5.1830-4 / CSE-CSE005";"Edivane de Jesus"
-"5";"DSS7123";"06339";"Serviço social e Assistência Social";"3.1830-4 / CSE-CSE004";"Dilceane Carraro"
-"5";"DSS7124";"07339";"Serviço Social e Saúde";"3.1830-4 / CSE-CSE105";"Tania Regina Kruger"
-"5";"DSS7125";"06339";"Pesquisa em Serviço social I";"5.1830-4 / CSE-CSE004";"Helenara Silveira Fagundes"
-"5";"DSS7126";"07339";"Pesquisa em Serviço Social II";"5.1830-4 / CSE-CSE105";"Liliane Moser"
-"5";"DSS7127";"07339";"Gestão e Planejamento em serviço Social I";"4.1830-4 / CSE-CSE105";"Andréa Márcia Santiago Lohmeyer Fuchs"
-"5";"DSS7128";"08339";"Gestão e Planejamento em serviço Social II";"3.1830-4 / CSE-CSE106";"Carla Rosane Bressan"
-"5";"DSS7131";"06339";"Supervisão Acadêmica de Estágio Obrigatório I";"2.1830-4 / CSE-CSE004";"Inez Rocha Zacarias
-Maria Teresa dos Santos
-Andréa Márcia Santiago Lohmeyer Fuchs
-Maria Regina de Avila Moreira
-Carla Rosane Bressan
+"5";"DSS7122";"05339";"Serviço Social e Previdência Social";"2.1830-4 / CSE-CSE005";"Edivane de Jesus"
+"5";"DSS7123";"06339";"Serviço social e Assistência Social";"3.1830-4 / AUX-ALOCAR";"Dilceane Carraro"
+"5";"DSS7124";"07339";"Serviço Social e Saúde";"4.1830-4 / AUX-ALOCAR";"Keli Regina Dal Prá"
+"5";"DSS7125";"06339";"Pesquisa em Serviço social I";"5.1830-4 / CSE-CSE004";"Luciana Patrícia Zucco"
+"5";"DSS7126";"07339";"Pesquisa em Serviço Social II";"5.1830-4 / CSE-CSE105";"Helenara Silveira Fagundes"
+"5";"DSS7127";"07339";"Gestão e Planejamento em serviço Social I";"3.1830-4 / AUX-ALOCAR";"Tania Regina Kruger"
+"5";"DSS7128";"08339";"Gestão e Planejamento em serviço Social II";"5.1830-4 / AUX-ALOCAR";"Sirlandia Schappo"
+"5";"DSS7131";"06339";"Supervisão Acadêmica de Estágio Obrigatório I";"2.1830-4 / AUX-ALOCAR";"Dilceane Carraro"
+"5";"DSS7131";"06339A";"Supervisão Acadêmica de Estágio Obrigatório I";"2.1830-4 / AUX-ALOCAR";"Camila Magalhães Nélsis"
+"5";"DSS7132";"07339";"Supervisão Acadêmica de Estágio Obrigatório II";"2.1830-4 / AUX-ALOCAR";"Maria Teresa dos Santos"
+"5";"DSS7133";"08339";"Supervisão Acadêmica de Estágio Obrigatório III";"2.1830-4 / CSE-CSE002";"Fabiana Luiza Negri"
+"5";"DSS7133";"08339A";"Supervisão Acadêmica de Estágio Obrigatório III";"2.1830-4 / AUX-ALOCAR";"Inez Rocha Zacarias"
+"5";"DSS7134";"05339";"Supervisão Acadêmica de Estágio não Obrigatório I";"2.1420-2 / AUX-ALOCAR";"Maria Teresa dos Santos
 Fabiana Luiza Negri"
-"5";"DSS7131";"06339A";"Supervisão Acadêmica de Estágio Obrigatório I";"2.1830-4 / AUX-ALOCAR";"Andréa Márcia Santiago Lohmeyer Fuchs
-Maria Teresa dos Santos
-Maria Regina de Avila Moreira
-Carla Rosane Bressan
-Fabiana Luiza Negri
-Inez Rocha Zacarias"
-"5";"DSS7132";"07339";"Supervisão Acadêmica de Estágio Obrigatório II";"2.1830-4 / CSE-CSE105";"Andréa Márcia Santiago Lohmeyer Fuchs
-Fabiana Luiza Negri
-Maria Regina de Avila Moreira
-Inez Rocha Zacarias
-Carla Rosane Bressan
-Maria Teresa dos Santos"
-"5";"DSS7132";"07339A";"Supervisão Acadêmica de Estágio Obrigatório II";"2.1830-4 / CSE-CSE106";"Andréa Márcia Santiago Lohmeyer Fuchs
-Maria Teresa dos Santos
-Carla Rosane Bressan
-Maria Regina de Avila Moreira
-Fabiana Luiza Negri
-Inez Rocha Zacarias"
-"5";"DSS7133";"08339";"Supervisão Acadêmica de Estágio Obrigatório III";"2.1830-4 / CSE-CSE002";"Fabiana Luiza Negri
-Carla Rosane Bressan
-Andréa Márcia Santiago Lohmeyer Fuchs
-Inez Rocha Zacarias
-Maria Regina de Avila Moreira
-Maria Teresa dos Santos"
-"5";"DSS7133";"08339A";"Supervisão Acadêmica de Estágio Obrigatório III";"2.1830-4 / AUX-ALOCAR";"Carla Rosane Bressan
-Andréa Márcia Santiago Lohmeyer Fuchs
-Fabiana Luiza Negri
-Inez Rocha Zacarias
-Maria Regina de Avila Moreira
-Maria Teresa dos Santos"
-"5";"DSS7134";"05339";"Supervisão Acadêmica de Estágio não Obrigatório I";"2.1420-2 / AUX-ALOCAR";"Professor Não Informado"
-"5";"DSS7135";"09339";"Supervisão Acadêmica de Estágio não Obrigatório II";"2.1620-2 / AUX-ALOCAR";"Professor Não Informado"
-"5";"DSS7141";"06339";"Estágio Supervisionado em Serviço Social Obrigatório I";"";"Marisa Camargo"
-"5";"DSS7142";"07339";"Estágio Superv.em Serv. Social Obrigatório II";"";"Marisa Camargo"
-"5";"DSS7143";"08339";"Estágio Supervisionado em serviço Social Obrigatório III";"";"Marisa Camargo"
-"5";"DSS7144";"05339";"Estágio Curricular Não Obrigatório I";"";"Marisa Camargo"
-"5";"DSS7145";"09339";"Estágio Curricular Não Obrigatório II";"";"Marisa Camargo"
-"5";"DSS7151";"08339";"Trabalho de conclusão de Curso I";"4.1830-2 / CSE-CSE002";"Helenara Silveira Fagundes"
-"5";"DSS7152";"09339";"Trabalho de Conclusão de Curso II";"";"Helenara Silveira Fagundes"
+"5";"DSS7135";"09339";"Supervisão Acadêmica de Estágio não Obrigatório II";"2.1620-2 / AUX-ALOCAR";"Fabiana Luiza Negri"
+"5";"DSS7141";"06339";"Estágio Supervisionado em Serviço Social Obrigatório I";"";"Fabiana Luiza Negri"
+"5";"DSS7142";"07339";"Estágio Superv.em Serv. Social Obrigatório II";"";"Fabiana Luiza Negri"
+"5";"DSS7143";"08339";"Estágio Supervisionado em serviço Social Obrigatório III";"";"Fabiana Luiza Negri"
+"5";"DSS7144";"05339";"Estágio Curricular Não Obrigatório I";"";"Fabiana Luiza Negri"
+"5";"DSS7145";"09339";"Estágio Curricular Não Obrigatório II";"";"Fabiana Luiza Negri"
+"5";"DSS7151";"08339";"Trabalho de conclusão de Curso I";"4.1830-2 / CSE-CSE002";"Inez Rocha Zacarias"
+"5";"DSS7152";"09339";"Trabalho de Conclusão de Curso II";"";"Inez Rocha Zacarias"
 "5";"DSS7153";"09339";"Serviço Social e Desafios Profissionais Contemporâneos";"4.1830-4 / CSE-CSE106";"Liliane Moser"
-"5";"DSS7166";"05339";"Serviço Social e Gênero";"6.1830-4 / CSE-CSE004";"Maria Regina de Avila Moreira"
-"5";"DSS7169";"08339";"Serviço Social e Questão Urbana";"5.1830-4 / AUX-ALOCAR";"Maria Teresa dos Santos"
-"5";"DSS7183";"05339";"Tópicos Especiais em Serviço Social";"";"Professor Não Informado"
-"5";"FIL7100";"04339";"Introdução a Ética";"6.1830-4 / CSE-CSE003";"Maria Alice da Silva"
-"5";"HST7105";"01339";"Formação Sócio-histórico do Brasil";"6.1830-4 / CSE-CSE006";"Professor Não Informado"
-"5";"LSB7904";"07339";"Língua Brasileira de Sinais I (PCC 18horas-aula)";"5.1830-4 / CSE-CSE106";"Thiago Amaral Vitorino"
+"5";"FIL7100";"04339";"Introdução a Ética";"2.1830-4 / CSE-CSE003";"Julia Sichieri Moura"
+"5";"HST7105";"01339";"Formação Sócio-histórico do Brasil";"6.1830-4 / CSE-CSE006";"Glaucia Cristina Candian Fraccaro"
 "5";"PSI7150";"02339";"Psicologia Social";"5.1830-4 / CSE-CSE008";"Elka Lima Hostensky"
-"5";"SPO5236";"02339";"Ciência Política";"2.1830-4 / CSE-CSE008";"Eriberto Jose Meurer"
-"5";"SPO7104";"01339";"Introdução à Teoria Sociológica";"4.1830-4 / CSE-CSE006";"Eriberto Jose Meurer"
+"5";"SPO5236";"02339";"Ciência Política";"2.1830-4 / CSE-CSE008";"Raul Burgos"
+"5";"SPO7104";"01339";"Introdução à Teoria Sociológica";"4.1830-4 / CSE-CSE006";"Ligia Helena Hahn Luchmann"
+"5";"SPO7105";"07339";"Teoria Sociológica Contemporânea";"5.1830-4 / AUX-ALOCAR";"Professor Não Informado"
